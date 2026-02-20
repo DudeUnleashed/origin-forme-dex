@@ -19,6 +19,7 @@ export interface Specimen {
 }
 
 export interface UserSettings {
+  id: string
   trainerNames: string[]
   defaultCompletionMode: CompletionMode
   ownedGameIds: string[]
