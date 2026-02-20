@@ -2,5689 +2,6634 @@
   {
     "id": "bulbasaur",
     "name": "Bulbasaur",
+    "dexNumber": 1,
     "introducedGroupId": "rby"
   },
   {
     "id": "ivysaur",
     "name": "Ivysaur",
+    "dexNumber": 2,
     "introducedGroupId": "rby",
     "prevolutionId": "bulbasaur"
   },
   {
     "id": "venusaur",
     "name": "Venusaur",
+    "dexNumber": 3,
     "introducedGroupId": "rby",
     "prevolutionId": "ivysaur"
   },
   {
     "id": "charmander",
     "name": "Charmander",
+    "dexNumber": 4,
     "introducedGroupId": "rby"
   },
   {
     "id": "charmeleon",
     "name": "Charmeleon",
+    "dexNumber": 5,
     "introducedGroupId": "rby",
     "prevolutionId": "charmander"
   },
   {
     "id": "charizard",
     "name": "Charizard",
+    "dexNumber": 6,
     "introducedGroupId": "rby",
     "prevolutionId": "charmeleon"
   },
   {
     "id": "squirtle",
     "name": "Squirtle",
+    "dexNumber": 7,
     "introducedGroupId": "rby"
   },
   {
     "id": "wartortle",
     "name": "Wartortle",
+    "dexNumber": 8,
     "introducedGroupId": "rby",
     "prevolutionId": "squirtle"
   },
   {
     "id": "blastoise",
     "name": "Blastoise",
+    "dexNumber": 9,
     "introducedGroupId": "rby",
     "prevolutionId": "wartortle"
   },
   {
     "id": "caterpie",
     "name": "Caterpie",
+    "dexNumber": 10,
     "introducedGroupId": "rby"
   },
   {
     "id": "metapod",
     "name": "Metapod",
+    "dexNumber": 11,
     "introducedGroupId": "rby",
     "prevolutionId": "caterpie"
   },
   {
     "id": "butterfree",
     "name": "Butterfree",
+    "dexNumber": 12,
     "introducedGroupId": "rby",
     "prevolutionId": "metapod"
   },
   {
     "id": "weedle",
     "name": "Weedle",
+    "dexNumber": 13,
     "introducedGroupId": "rby"
   },
   {
     "id": "kakuna",
     "name": "Kakuna",
+    "dexNumber": 14,
     "introducedGroupId": "rby",
     "prevolutionId": "weedle"
   },
   {
     "id": "beedrill",
     "name": "Beedrill",
+    "dexNumber": 15,
     "introducedGroupId": "rby",
     "prevolutionId": "kakuna"
   },
   {
     "id": "pidgey",
     "name": "Pidgey",
+    "dexNumber": 16,
     "introducedGroupId": "rby"
   },
   {
     "id": "pidgeotto",
     "name": "Pidgeotto",
+    "dexNumber": 17,
     "introducedGroupId": "rby",
     "prevolutionId": "pidgey"
   },
   {
     "id": "pidgeot",
     "name": "Pidgeot",
+    "dexNumber": 18,
     "introducedGroupId": "rby",
     "prevolutionId": "pidgeotto"
   },
   {
     "id": "rattata",
     "name": "Rattata",
+    "dexNumber": 19,
     "introducedGroupId": "rby"
   },
   {
     "id": "raticate",
     "name": "Raticate",
+    "dexNumber": 20,
     "introducedGroupId": "rby",
     "prevolutionId": "rattata"
   },
   {
     "id": "spearow",
     "name": "Spearow",
+    "dexNumber": 21,
     "introducedGroupId": "rby"
   },
   {
     "id": "fearow",
     "name": "Fearow",
+    "dexNumber": 22,
     "introducedGroupId": "rby",
     "prevolutionId": "spearow"
   },
   {
     "id": "ekans",
     "name": "Ekans",
+    "dexNumber": 23,
     "introducedGroupId": "rby"
   },
   {
     "id": "arbok",
     "name": "Arbok",
+    "dexNumber": 24,
     "introducedGroupId": "rby",
     "prevolutionId": "ekans"
   },
   {
     "id": "pikachu",
     "name": "Pikachu",
+    "dexNumber": 25,
     "introducedGroupId": "rby",
     "prevolutionId": "pichu"
   },
   {
     "id": "raichu",
     "name": "Raichu",
+    "dexNumber": 26,
     "introducedGroupId": "rby",
     "prevolutionId": "pikachu"
   },
   {
     "id": "sandshrew",
     "name": "Sandshrew",
+    "dexNumber": 27,
     "introducedGroupId": "rby"
   },
   {
     "id": "sandslash",
     "name": "Sandslash",
+    "dexNumber": 28,
     "introducedGroupId": "rby",
     "prevolutionId": "sandshrew"
   },
   {
     "id": "nidoran-f",
     "name": "Nidoran-F",
+    "dexNumber": 29,
     "introducedGroupId": "rby"
   },
   {
     "id": "nidorina",
     "name": "Nidorina",
+    "dexNumber": 30,
     "introducedGroupId": "rby",
     "prevolutionId": "nidoran-f"
   },
   {
     "id": "nidoqueen",
     "name": "Nidoqueen",
+    "dexNumber": 31,
     "introducedGroupId": "rby",
     "prevolutionId": "nidorina"
   },
   {
     "id": "nidoran-m",
     "name": "Nidoran-M",
+    "dexNumber": 32,
     "introducedGroupId": "rby"
   },
   {
     "id": "nidorino",
     "name": "Nidorino",
+    "dexNumber": 33,
     "introducedGroupId": "rby",
     "prevolutionId": "nidoran-m"
   },
   {
     "id": "nidoking",
     "name": "Nidoking",
+    "dexNumber": 34,
     "introducedGroupId": "rby",
     "prevolutionId": "nidorino"
   },
   {
     "id": "clefairy",
     "name": "Clefairy",
+    "dexNumber": 35,
     "introducedGroupId": "rby",
     "prevolutionId": "cleffa"
   },
   {
     "id": "clefable",
     "name": "Clefable",
+    "dexNumber": 36,
     "introducedGroupId": "rby",
     "prevolutionId": "clefairy"
   },
   {
     "id": "vulpix",
     "name": "Vulpix",
+    "dexNumber": 37,
     "introducedGroupId": "rby"
   },
   {
     "id": "ninetales",
     "name": "Ninetales",
+    "dexNumber": 38,
     "introducedGroupId": "rby",
     "prevolutionId": "vulpix"
   },
   {
     "id": "jigglypuff",
     "name": "Jigglypuff",
+    "dexNumber": 39,
     "introducedGroupId": "rby",
     "prevolutionId": "igglybuff"
   },
   {
     "id": "wigglytuff",
     "name": "Wigglytuff",
+    "dexNumber": 40,
     "introducedGroupId": "rby",
     "prevolutionId": "jigglypuff"
   },
   {
     "id": "zubat",
     "name": "Zubat",
+    "dexNumber": 41,
     "introducedGroupId": "rby"
   },
   {
     "id": "golbat",
     "name": "Golbat",
+    "dexNumber": 42,
     "introducedGroupId": "rby",
     "prevolutionId": "zubat"
   },
   {
     "id": "oddish",
     "name": "Oddish",
+    "dexNumber": 43,
     "introducedGroupId": "rby"
   },
   {
     "id": "gloom",
     "name": "Gloom",
+    "dexNumber": 44,
     "introducedGroupId": "rby",
     "prevolutionId": "oddish"
   },
   {
     "id": "vileplume",
     "name": "Vileplume",
+    "dexNumber": 45,
     "introducedGroupId": "rby",
     "prevolutionId": "gloom"
   },
   {
     "id": "paras",
     "name": "Paras",
+    "dexNumber": 46,
     "introducedGroupId": "rby"
   },
   {
     "id": "parasect",
     "name": "Parasect",
+    "dexNumber": 47,
     "introducedGroupId": "rby",
     "prevolutionId": "paras"
   },
   {
     "id": "venonat",
     "name": "Venonat",
+    "dexNumber": 48,
     "introducedGroupId": "rby"
   },
   {
     "id": "venomoth",
     "name": "Venomoth",
+    "dexNumber": 49,
     "introducedGroupId": "rby",
     "prevolutionId": "venonat"
   },
   {
     "id": "diglett",
     "name": "Diglett",
+    "dexNumber": 50,
     "introducedGroupId": "rby"
   },
   {
     "id": "dugtrio",
     "name": "Dugtrio",
+    "dexNumber": 51,
     "introducedGroupId": "rby",
     "prevolutionId": "diglett"
   },
   {
     "id": "meowth",
     "name": "Meowth",
+    "dexNumber": 52,
     "introducedGroupId": "rby"
   },
   {
     "id": "persian",
     "name": "Persian",
+    "dexNumber": 53,
     "introducedGroupId": "rby",
     "prevolutionId": "meowth"
   },
   {
     "id": "psyduck",
     "name": "Psyduck",
+    "dexNumber": 54,
     "introducedGroupId": "rby"
   },
   {
     "id": "golduck",
     "name": "Golduck",
+    "dexNumber": 55,
     "introducedGroupId": "rby",
     "prevolutionId": "psyduck"
   },
   {
     "id": "mankey",
     "name": "Mankey",
+    "dexNumber": 56,
     "introducedGroupId": "rby"
   },
   {
     "id": "primeape",
     "name": "Primeape",
+    "dexNumber": 57,
     "introducedGroupId": "rby",
     "prevolutionId": "mankey"
   },
   {
     "id": "growlithe",
     "name": "Growlithe",
+    "dexNumber": 58,
     "introducedGroupId": "rby"
   },
   {
     "id": "arcanine",
     "name": "Arcanine",
+    "dexNumber": 59,
     "introducedGroupId": "rby",
     "prevolutionId": "growlithe"
   },
   {
     "id": "poliwag",
     "name": "Poliwag",
+    "dexNumber": 60,
     "introducedGroupId": "rby"
   },
   {
     "id": "poliwhirl",
     "name": "Poliwhirl",
+    "dexNumber": 61,
     "introducedGroupId": "rby",
     "prevolutionId": "poliwag"
   },
   {
     "id": "poliwrath",
     "name": "Poliwrath",
+    "dexNumber": 62,
     "introducedGroupId": "rby",
     "prevolutionId": "poliwhirl"
   },
   {
     "id": "abra",
     "name": "Abra",
+    "dexNumber": 63,
     "introducedGroupId": "rby"
   },
   {
     "id": "kadabra",
     "name": "Kadabra",
+    "dexNumber": 64,
     "introducedGroupId": "rby",
     "prevolutionId": "abra"
   },
   {
     "id": "alakazam",
     "name": "Alakazam",
+    "dexNumber": 65,
     "introducedGroupId": "rby",
     "prevolutionId": "kadabra"
   },
   {
     "id": "machop",
     "name": "Machop",
+    "dexNumber": 66,
     "introducedGroupId": "rby"
   },
   {
     "id": "machoke",
     "name": "Machoke",
+    "dexNumber": 67,
     "introducedGroupId": "rby",
     "prevolutionId": "machop"
   },
   {
     "id": "machamp",
     "name": "Machamp",
+    "dexNumber": 68,
     "introducedGroupId": "rby",
     "prevolutionId": "machoke"
   },
   {
     "id": "bellsprout",
     "name": "Bellsprout",
+    "dexNumber": 69,
     "introducedGroupId": "rby"
   },
   {
     "id": "weepinbell",
     "name": "Weepinbell",
+    "dexNumber": 70,
     "introducedGroupId": "rby",
     "prevolutionId": "bellsprout"
   },
   {
     "id": "victreebel",
     "name": "Victreebel",
+    "dexNumber": 71,
     "introducedGroupId": "rby",
     "prevolutionId": "weepinbell"
   },
   {
     "id": "tentacool",
     "name": "Tentacool",
+    "dexNumber": 72,
     "introducedGroupId": "rby"
   },
   {
     "id": "tentacruel",
     "name": "Tentacruel",
+    "dexNumber": 73,
     "introducedGroupId": "rby",
     "prevolutionId": "tentacool"
   },
   {
     "id": "geodude",
     "name": "Geodude",
+    "dexNumber": 74,
     "introducedGroupId": "rby"
   },
   {
     "id": "graveler",
     "name": "Graveler",
+    "dexNumber": 75,
     "introducedGroupId": "rby",
     "prevolutionId": "geodude"
   },
   {
     "id": "golem",
     "name": "Golem",
+    "dexNumber": 76,
     "introducedGroupId": "rby",
     "prevolutionId": "graveler"
   },
   {
     "id": "ponyta",
     "name": "Ponyta",
+    "dexNumber": 77,
     "introducedGroupId": "rby"
   },
   {
     "id": "rapidash",
     "name": "Rapidash",
+    "dexNumber": 78,
     "introducedGroupId": "rby",
     "prevolutionId": "ponyta"
   },
   {
     "id": "slowpoke",
     "name": "Slowpoke",
+    "dexNumber": 79,
     "introducedGroupId": "rby"
   },
   {
     "id": "slowbro",
     "name": "Slowbro",
+    "dexNumber": 80,
     "introducedGroupId": "rby",
     "prevolutionId": "slowpoke"
   },
   {
     "id": "magnemite",
     "name": "Magnemite",
+    "dexNumber": 81,
     "introducedGroupId": "rby"
   },
   {
     "id": "magneton",
     "name": "Magneton",
+    "dexNumber": 82,
     "introducedGroupId": "rby",
     "prevolutionId": "magnemite"
   },
   {
     "id": "farfetch-d",
     "name": "Farfetch’d",
+    "dexNumber": 83,
     "introducedGroupId": "rby"
   },
   {
     "id": "doduo",
     "name": "Doduo",
+    "dexNumber": 84,
     "introducedGroupId": "rby"
   },
   {
     "id": "dodrio",
     "name": "Dodrio",
+    "dexNumber": 85,
     "introducedGroupId": "rby",
     "prevolutionId": "doduo"
   },
   {
     "id": "seel",
     "name": "Seel",
+    "dexNumber": 86,
     "introducedGroupId": "rby"
   },
   {
     "id": "dewgong",
     "name": "Dewgong",
+    "dexNumber": 87,
     "introducedGroupId": "rby",
     "prevolutionId": "seel"
   },
   {
     "id": "grimer",
     "name": "Grimer",
+    "dexNumber": 88,
     "introducedGroupId": "rby"
   },
   {
     "id": "muk",
     "name": "Muk",
+    "dexNumber": 89,
     "introducedGroupId": "rby",
     "prevolutionId": "grimer"
   },
   {
     "id": "shellder",
     "name": "Shellder",
+    "dexNumber": 90,
     "introducedGroupId": "rby"
   },
   {
     "id": "cloyster",
     "name": "Cloyster",
+    "dexNumber": 91,
     "introducedGroupId": "rby",
     "prevolutionId": "shellder"
   },
   {
     "id": "gastly",
     "name": "Gastly",
+    "dexNumber": 92,
     "introducedGroupId": "rby"
   },
   {
     "id": "haunter",
     "name": "Haunter",
+    "dexNumber": 93,
     "introducedGroupId": "rby",
     "prevolutionId": "gastly"
   },
   {
     "id": "gengar",
     "name": "Gengar",
+    "dexNumber": 94,
     "introducedGroupId": "rby",
     "prevolutionId": "haunter"
   },
   {
     "id": "onix",
     "name": "Onix",
+    "dexNumber": 95,
     "introducedGroupId": "rby"
   },
   {
     "id": "drowzee",
     "name": "Drowzee",
+    "dexNumber": 96,
     "introducedGroupId": "rby"
   },
   {
     "id": "hypno",
     "name": "Hypno",
+    "dexNumber": 97,
     "introducedGroupId": "rby",
     "prevolutionId": "drowzee"
   },
   {
     "id": "krabby",
     "name": "Krabby",
+    "dexNumber": 98,
     "introducedGroupId": "rby"
   },
   {
     "id": "kingler",
     "name": "Kingler",
+    "dexNumber": 99,
     "introducedGroupId": "rby",
     "prevolutionId": "krabby"
   },
   {
     "id": "voltorb",
     "name": "Voltorb",
+    "dexNumber": 100,
     "introducedGroupId": "rby"
   },
   {
     "id": "electrode",
     "name": "Electrode",
+    "dexNumber": 101,
     "introducedGroupId": "rby",
     "prevolutionId": "voltorb"
   },
   {
     "id": "exeggcute",
     "name": "Exeggcute",
+    "dexNumber": 102,
     "introducedGroupId": "rby"
   },
   {
     "id": "exeggutor",
     "name": "Exeggutor",
+    "dexNumber": 103,
     "introducedGroupId": "rby",
     "prevolutionId": "exeggcute"
   },
   {
     "id": "cubone",
     "name": "Cubone",
+    "dexNumber": 104,
     "introducedGroupId": "rby"
   },
   {
     "id": "marowak",
     "name": "Marowak",
+    "dexNumber": 105,
     "introducedGroupId": "rby",
     "prevolutionId": "cubone"
   },
   {
     "id": "hitmonlee",
     "name": "Hitmonlee",
+    "dexNumber": 106,
     "introducedGroupId": "rby",
     "prevolutionId": "tyrogue"
   },
   {
     "id": "hitmonchan",
     "name": "Hitmonchan",
+    "dexNumber": 107,
     "introducedGroupId": "rby",
     "prevolutionId": "tyrogue"
   },
   {
     "id": "lickitung",
     "name": "Lickitung",
+    "dexNumber": 108,
     "introducedGroupId": "rby"
   },
   {
     "id": "koffing",
     "name": "Koffing",
+    "dexNumber": 109,
     "introducedGroupId": "rby"
   },
   {
     "id": "weezing",
     "name": "Weezing",
+    "dexNumber": 110,
     "introducedGroupId": "rby",
     "prevolutionId": "koffing"
   },
   {
     "id": "rhyhorn",
     "name": "Rhyhorn",
+    "dexNumber": 111,
     "introducedGroupId": "rby"
   },
   {
     "id": "rhydon",
     "name": "Rhydon",
+    "dexNumber": 112,
     "introducedGroupId": "rby",
     "prevolutionId": "rhyhorn"
   },
   {
     "id": "chansey",
     "name": "Chansey",
+    "dexNumber": 113,
     "introducedGroupId": "rby",
     "prevolutionId": "happiny"
   },
   {
     "id": "tangela",
     "name": "Tangela",
+    "dexNumber": 114,
     "introducedGroupId": "rby"
   },
   {
     "id": "kangaskhan",
     "name": "Kangaskhan",
+    "dexNumber": 115,
     "introducedGroupId": "rby"
   },
   {
     "id": "horsea",
     "name": "Horsea",
+    "dexNumber": 116,
     "introducedGroupId": "rby"
   },
   {
     "id": "seadra",
     "name": "Seadra",
+    "dexNumber": 117,
     "introducedGroupId": "rby",
     "prevolutionId": "horsea"
   },
   {
     "id": "goldeen",
     "name": "Goldeen",
+    "dexNumber": 118,
     "introducedGroupId": "rby"
   },
   {
     "id": "seaking",
     "name": "Seaking",
+    "dexNumber": 119,
     "introducedGroupId": "rby",
     "prevolutionId": "goldeen"
   },
   {
     "id": "staryu",
     "name": "Staryu",
+    "dexNumber": 120,
     "introducedGroupId": "rby"
   },
   {
     "id": "starmie",
     "name": "Starmie",
+    "dexNumber": 121,
     "introducedGroupId": "rby",
     "prevolutionId": "staryu"
   },
   {
     "id": "mr-mime",
     "name": "Mr. Mime",
+    "dexNumber": 122,
     "introducedGroupId": "rby",
     "prevolutionId": "mime-jr"
   },
   {
     "id": "scyther",
     "name": "Scyther",
+    "dexNumber": 123,
     "introducedGroupId": "rby"
   },
   {
     "id": "jynx",
     "name": "Jynx",
+    "dexNumber": 124,
     "introducedGroupId": "rby",
     "prevolutionId": "smoochum"
   },
   {
     "id": "electabuzz",
     "name": "Electabuzz",
+    "dexNumber": 125,
     "introducedGroupId": "rby",
     "prevolutionId": "elekid"
   },
   {
     "id": "magmar",
     "name": "Magmar",
+    "dexNumber": 126,
     "introducedGroupId": "rby",
     "prevolutionId": "magby"
   },
   {
     "id": "pinsir",
     "name": "Pinsir",
+    "dexNumber": 127,
     "introducedGroupId": "rby"
   },
   {
     "id": "tauros",
     "name": "Tauros",
+    "dexNumber": 128,
     "introducedGroupId": "rby"
   },
   {
     "id": "magikarp",
     "name": "Magikarp",
+    "dexNumber": 129,
     "introducedGroupId": "rby"
   },
   {
     "id": "gyarados",
     "name": "Gyarados",
+    "dexNumber": 130,
     "introducedGroupId": "rby",
     "prevolutionId": "magikarp"
   },
   {
     "id": "lapras",
     "name": "Lapras",
+    "dexNumber": 131,
     "introducedGroupId": "rby"
   },
   {
     "id": "ditto",
     "name": "Ditto",
+    "dexNumber": 132,
     "introducedGroupId": "rby"
   },
   {
     "id": "eevee",
     "name": "Eevee",
+    "dexNumber": 133,
     "introducedGroupId": "rby"
   },
   {
     "id": "vaporeon",
     "name": "Vaporeon",
+    "dexNumber": 134,
     "introducedGroupId": "rby",
     "prevolutionId": "eevee"
   },
   {
     "id": "jolteon",
     "name": "Jolteon",
+    "dexNumber": 135,
     "introducedGroupId": "rby",
     "prevolutionId": "eevee"
   },
   {
     "id": "flareon",
     "name": "Flareon",
+    "dexNumber": 136,
     "introducedGroupId": "rby",
     "prevolutionId": "eevee"
   },
   {
     "id": "porygon",
     "name": "Porygon",
+    "dexNumber": 137,
     "introducedGroupId": "rby"
   },
   {
     "id": "omanyte",
     "name": "Omanyte",
+    "dexNumber": 138,
     "introducedGroupId": "rby"
   },
   {
     "id": "omastar",
     "name": "Omastar",
+    "dexNumber": 139,
     "introducedGroupId": "rby",
     "prevolutionId": "omanyte"
   },
   {
     "id": "kabuto",
     "name": "Kabuto",
+    "dexNumber": 140,
     "introducedGroupId": "rby"
   },
   {
     "id": "kabutops",
     "name": "Kabutops",
+    "dexNumber": 141,
     "introducedGroupId": "rby",
     "prevolutionId": "kabuto"
   },
   {
     "id": "aerodactyl",
     "name": "Aerodactyl",
+    "dexNumber": 142,
     "introducedGroupId": "rby"
   },
   {
     "id": "snorlax",
     "name": "Snorlax",
+    "dexNumber": 143,
     "introducedGroupId": "rby",
     "prevolutionId": "munchlax"
   },
   {
     "id": "articuno",
     "name": "Articuno",
+    "dexNumber": 144,
     "introducedGroupId": "rby"
   },
   {
     "id": "zapdos",
     "name": "Zapdos",
+    "dexNumber": 145,
     "introducedGroupId": "rby"
   },
   {
     "id": "moltres",
     "name": "Moltres",
+    "dexNumber": 146,
     "introducedGroupId": "rby"
   },
   {
     "id": "dratini",
     "name": "Dratini",
+    "dexNumber": 147,
     "introducedGroupId": "rby"
   },
   {
     "id": "dragonair",
     "name": "Dragonair",
+    "dexNumber": 148,
     "introducedGroupId": "rby",
     "prevolutionId": "dratini"
   },
   {
     "id": "dragonite",
     "name": "Dragonite",
+    "dexNumber": 149,
     "introducedGroupId": "rby",
     "prevolutionId": "dragonair"
   },
   {
     "id": "mewtwo",
     "name": "Mewtwo",
+    "dexNumber": 150,
     "introducedGroupId": "rby"
   },
   {
     "id": "mew",
     "name": "Mew",
+    "dexNumber": 151,
     "introducedGroupId": "rby"
   },
   {
     "id": "chikorita",
     "name": "Chikorita",
+    "dexNumber": 152,
     "introducedGroupId": "gsc"
   },
   {
     "id": "bayleef",
     "name": "Bayleef",
+    "dexNumber": 153,
     "introducedGroupId": "gsc",
     "prevolutionId": "chikorita"
   },
   {
     "id": "meganium",
     "name": "Meganium",
+    "dexNumber": 154,
     "introducedGroupId": "gsc",
     "prevolutionId": "bayleef"
   },
   {
     "id": "cyndaquil",
     "name": "Cyndaquil",
+    "dexNumber": 155,
     "introducedGroupId": "gsc"
   },
   {
     "id": "quilava",
     "name": "Quilava",
+    "dexNumber": 156,
     "introducedGroupId": "gsc",
     "prevolutionId": "cyndaquil"
   },
   {
     "id": "typhlosion",
     "name": "Typhlosion",
+    "dexNumber": 157,
     "introducedGroupId": "gsc",
     "prevolutionId": "quilava"
   },
   {
     "id": "totodile",
     "name": "Totodile",
+    "dexNumber": 158,
     "introducedGroupId": "gsc"
   },
   {
     "id": "croconaw",
     "name": "Croconaw",
+    "dexNumber": 159,
     "introducedGroupId": "gsc",
     "prevolutionId": "totodile"
   },
   {
     "id": "feraligatr",
     "name": "Feraligatr",
+    "dexNumber": 160,
     "introducedGroupId": "gsc",
     "prevolutionId": "croconaw"
   },
   {
     "id": "sentret",
     "name": "Sentret",
+    "dexNumber": 161,
     "introducedGroupId": "gsc"
   },
   {
     "id": "furret",
     "name": "Furret",
+    "dexNumber": 162,
     "introducedGroupId": "gsc",
     "prevolutionId": "sentret"
   },
   {
     "id": "hoothoot",
     "name": "Hoothoot",
+    "dexNumber": 163,
     "introducedGroupId": "gsc"
   },
   {
     "id": "noctowl",
     "name": "Noctowl",
+    "dexNumber": 164,
     "introducedGroupId": "gsc",
     "prevolutionId": "hoothoot"
   },
   {
     "id": "ledyba",
     "name": "Ledyba",
+    "dexNumber": 165,
     "introducedGroupId": "gsc"
   },
   {
     "id": "ledian",
     "name": "Ledian",
+    "dexNumber": 166,
     "introducedGroupId": "gsc",
     "prevolutionId": "ledyba"
   },
   {
     "id": "spinarak",
     "name": "Spinarak",
+    "dexNumber": 167,
     "introducedGroupId": "gsc"
   },
   {
     "id": "ariados",
     "name": "Ariados",
+    "dexNumber": 168,
     "introducedGroupId": "gsc",
     "prevolutionId": "spinarak"
   },
   {
     "id": "crobat",
     "name": "Crobat",
+    "dexNumber": 169,
     "introducedGroupId": "gsc",
     "prevolutionId": "golbat"
   },
   {
     "id": "chinchou",
     "name": "Chinchou",
+    "dexNumber": 170,
     "introducedGroupId": "gsc"
   },
   {
     "id": "lanturn",
     "name": "Lanturn",
+    "dexNumber": 171,
     "introducedGroupId": "gsc",
     "prevolutionId": "chinchou"
   },
   {
     "id": "pichu",
     "name": "Pichu",
+    "dexNumber": 172,
     "introducedGroupId": "gsc"
   },
   {
     "id": "cleffa",
     "name": "Cleffa",
+    "dexNumber": 173,
     "introducedGroupId": "gsc"
   },
   {
     "id": "igglybuff",
     "name": "Igglybuff",
+    "dexNumber": 174,
     "introducedGroupId": "gsc"
   },
   {
     "id": "togepi",
     "name": "Togepi",
+    "dexNumber": 175,
     "introducedGroupId": "gsc"
   },
   {
     "id": "togetic",
     "name": "Togetic",
+    "dexNumber": 176,
     "introducedGroupId": "gsc",
     "prevolutionId": "togepi"
   },
   {
     "id": "natu",
     "name": "Natu",
+    "dexNumber": 177,
     "introducedGroupId": "gsc"
   },
   {
     "id": "xatu",
     "name": "Xatu",
+    "dexNumber": 178,
     "introducedGroupId": "gsc",
     "prevolutionId": "natu"
   },
   {
     "id": "mareep",
     "name": "Mareep",
+    "dexNumber": 179,
     "introducedGroupId": "gsc"
   },
   {
     "id": "flaaffy",
     "name": "Flaaffy",
+    "dexNumber": 180,
     "introducedGroupId": "gsc",
     "prevolutionId": "mareep"
   },
   {
     "id": "ampharos",
     "name": "Ampharos",
+    "dexNumber": 181,
     "introducedGroupId": "gsc",
     "prevolutionId": "flaaffy"
   },
   {
     "id": "bellossom",
     "name": "Bellossom",
+    "dexNumber": 182,
     "introducedGroupId": "gsc",
     "prevolutionId": "gloom"
   },
   {
     "id": "marill",
     "name": "Marill",
+    "dexNumber": 183,
     "introducedGroupId": "gsc",
     "prevolutionId": "azurill"
   },
   {
     "id": "azumarill",
     "name": "Azumarill",
+    "dexNumber": 184,
     "introducedGroupId": "gsc",
     "prevolutionId": "marill"
   },
   {
     "id": "sudowoodo",
     "name": "Sudowoodo",
+    "dexNumber": 185,
     "introducedGroupId": "gsc",
     "prevolutionId": "bonsly"
   },
   {
     "id": "politoed",
     "name": "Politoed",
+    "dexNumber": 186,
     "introducedGroupId": "gsc",
     "prevolutionId": "poliwhirl"
   },
   {
     "id": "hoppip",
     "name": "Hoppip",
+    "dexNumber": 187,
     "introducedGroupId": "gsc"
   },
   {
     "id": "skiploom",
     "name": "Skiploom",
+    "dexNumber": 188,
     "introducedGroupId": "gsc",
     "prevolutionId": "hoppip"
   },
   {
     "id": "jumpluff",
     "name": "Jumpluff",
+    "dexNumber": 189,
     "introducedGroupId": "gsc",
     "prevolutionId": "skiploom"
   },
   {
     "id": "aipom",
     "name": "Aipom",
+    "dexNumber": 190,
     "introducedGroupId": "gsc"
   },
   {
     "id": "sunkern",
     "name": "Sunkern",
+    "dexNumber": 191,
     "introducedGroupId": "gsc"
   },
   {
     "id": "sunflora",
     "name": "Sunflora",
+    "dexNumber": 192,
     "introducedGroupId": "gsc",
     "prevolutionId": "sunkern"
   },
   {
     "id": "yanma",
     "name": "Yanma",
+    "dexNumber": 193,
     "introducedGroupId": "gsc"
   },
   {
     "id": "wooper",
     "name": "Wooper",
+    "dexNumber": 194,
     "introducedGroupId": "gsc"
   },
   {
     "id": "quagsire",
     "name": "Quagsire",
+    "dexNumber": 195,
     "introducedGroupId": "gsc",
     "prevolutionId": "wooper"
   },
   {
     "id": "espeon",
     "name": "Espeon",
+    "dexNumber": 196,
     "introducedGroupId": "gsc",
     "prevolutionId": "eevee"
   },
   {
     "id": "umbreon",
     "name": "Umbreon",
+    "dexNumber": 197,
     "introducedGroupId": "gsc",
     "prevolutionId": "eevee"
   },
   {
     "id": "murkrow",
     "name": "Murkrow",
+    "dexNumber": 198,
     "introducedGroupId": "gsc"
   },
   {
     "id": "slowking",
     "name": "Slowking",
+    "dexNumber": 199,
     "introducedGroupId": "gsc",
     "prevolutionId": "slowpoke"
   },
   {
     "id": "misdreavus",
     "name": "Misdreavus",
+    "dexNumber": 200,
     "introducedGroupId": "gsc"
   },
   {
     "id": "unown",
     "name": "Unown",
+    "dexNumber": 201,
     "introducedGroupId": "gsc"
   },
   {
     "id": "wobbuffet",
     "name": "Wobbuffet",
+    "dexNumber": 202,
     "introducedGroupId": "gsc",
     "prevolutionId": "wynaut"
   },
   {
     "id": "girafarig",
     "name": "Girafarig",
+    "dexNumber": 203,
     "introducedGroupId": "gsc"
   },
   {
     "id": "pineco",
     "name": "Pineco",
+    "dexNumber": 204,
     "introducedGroupId": "gsc"
   },
   {
     "id": "forretress",
     "name": "Forretress",
+    "dexNumber": 205,
     "introducedGroupId": "gsc",
     "prevolutionId": "pineco"
   },
   {
     "id": "dunsparce",
     "name": "Dunsparce",
+    "dexNumber": 206,
     "introducedGroupId": "gsc"
   },
   {
     "id": "gligar",
     "name": "Gligar",
+    "dexNumber": 207,
     "introducedGroupId": "gsc"
   },
   {
     "id": "steelix",
     "name": "Steelix",
+    "dexNumber": 208,
     "introducedGroupId": "gsc",
     "prevolutionId": "onix"
   },
   {
     "id": "snubbull",
     "name": "Snubbull",
+    "dexNumber": 209,
     "introducedGroupId": "gsc"
   },
   {
     "id": "granbull",
     "name": "Granbull",
+    "dexNumber": 210,
     "introducedGroupId": "gsc",
     "prevolutionId": "snubbull"
   },
   {
     "id": "qwilfish",
     "name": "Qwilfish",
+    "dexNumber": 211,
     "introducedGroupId": "gsc"
   },
   {
     "id": "scizor",
     "name": "Scizor",
+    "dexNumber": 212,
     "introducedGroupId": "gsc",
     "prevolutionId": "scyther"
   },
   {
     "id": "shuckle",
     "name": "Shuckle",
+    "dexNumber": 213,
     "introducedGroupId": "gsc"
   },
   {
     "id": "heracross",
     "name": "Heracross",
+    "dexNumber": 214,
     "introducedGroupId": "gsc"
   },
   {
     "id": "sneasel",
     "name": "Sneasel",
+    "dexNumber": 215,
     "introducedGroupId": "gsc"
   },
   {
     "id": "teddiursa",
     "name": "Teddiursa",
+    "dexNumber": 216,
     "introducedGroupId": "gsc"
   },
   {
     "id": "ursaring",
     "name": "Ursaring",
+    "dexNumber": 217,
     "introducedGroupId": "gsc",
     "prevolutionId": "teddiursa"
   },
   {
     "id": "slugma",
     "name": "Slugma",
+    "dexNumber": 218,
     "introducedGroupId": "gsc"
   },
   {
     "id": "magcargo",
     "name": "Magcargo",
+    "dexNumber": 219,
     "introducedGroupId": "gsc",
     "prevolutionId": "slugma"
   },
   {
     "id": "swinub",
     "name": "Swinub",
+    "dexNumber": 220,
     "introducedGroupId": "gsc"
   },
   {
     "id": "piloswine",
     "name": "Piloswine",
+    "dexNumber": 221,
     "introducedGroupId": "gsc",
     "prevolutionId": "swinub"
   },
   {
     "id": "corsola",
     "name": "Corsola",
+    "dexNumber": 222,
     "introducedGroupId": "gsc"
   },
   {
     "id": "remoraid",
     "name": "Remoraid",
+    "dexNumber": 223,
     "introducedGroupId": "gsc"
   },
   {
     "id": "octillery",
     "name": "Octillery",
+    "dexNumber": 224,
     "introducedGroupId": "gsc",
     "prevolutionId": "remoraid"
   },
   {
     "id": "delibird",
     "name": "Delibird",
+    "dexNumber": 225,
     "introducedGroupId": "gsc"
   },
   {
     "id": "mantine",
     "name": "Mantine",
+    "dexNumber": 226,
     "introducedGroupId": "gsc",
     "prevolutionId": "mantyke"
   },
   {
     "id": "skarmory",
     "name": "Skarmory",
+    "dexNumber": 227,
     "introducedGroupId": "gsc"
   },
   {
     "id": "houndour",
     "name": "Houndour",
+    "dexNumber": 228,
     "introducedGroupId": "gsc"
   },
   {
     "id": "houndoom",
     "name": "Houndoom",
+    "dexNumber": 229,
     "introducedGroupId": "gsc",
     "prevolutionId": "houndour"
   },
   {
     "id": "kingdra",
     "name": "Kingdra",
+    "dexNumber": 230,
     "introducedGroupId": "gsc",
     "prevolutionId": "seadra"
   },
   {
     "id": "phanpy",
     "name": "Phanpy",
+    "dexNumber": 231,
     "introducedGroupId": "gsc"
   },
   {
     "id": "donphan",
     "name": "Donphan",
+    "dexNumber": 232,
     "introducedGroupId": "gsc",
     "prevolutionId": "phanpy"
   },
   {
     "id": "porygon2",
     "name": "Porygon2",
+    "dexNumber": 233,
     "introducedGroupId": "gsc",
     "prevolutionId": "porygon"
   },
   {
     "id": "stantler",
     "name": "Stantler",
+    "dexNumber": 234,
     "introducedGroupId": "gsc"
   },
   {
     "id": "smeargle",
     "name": "Smeargle",
+    "dexNumber": 235,
     "introducedGroupId": "gsc"
   },
   {
     "id": "tyrogue",
     "name": "Tyrogue",
+    "dexNumber": 236,
     "introducedGroupId": "gsc"
   },
   {
     "id": "hitmontop",
     "name": "Hitmontop",
+    "dexNumber": 237,
     "introducedGroupId": "gsc",
     "prevolutionId": "tyrogue"
   },
   {
     "id": "smoochum",
     "name": "Smoochum",
+    "dexNumber": 238,
     "introducedGroupId": "gsc"
   },
   {
     "id": "elekid",
     "name": "Elekid",
+    "dexNumber": 239,
     "introducedGroupId": "gsc"
   },
   {
     "id": "magby",
     "name": "Magby",
+    "dexNumber": 240,
     "introducedGroupId": "gsc"
   },
   {
     "id": "miltank",
     "name": "Miltank",
+    "dexNumber": 241,
     "introducedGroupId": "gsc"
   },
   {
     "id": "blissey",
     "name": "Blissey",
+    "dexNumber": 242,
     "introducedGroupId": "gsc",
     "prevolutionId": "chansey"
   },
   {
     "id": "raikou",
     "name": "Raikou",
+    "dexNumber": 243,
     "introducedGroupId": "gsc"
   },
   {
     "id": "entei",
     "name": "Entei",
+    "dexNumber": 244,
     "introducedGroupId": "gsc"
   },
   {
     "id": "suicune",
     "name": "Suicune",
+    "dexNumber": 245,
     "introducedGroupId": "gsc"
   },
   {
     "id": "larvitar",
     "name": "Larvitar",
+    "dexNumber": 246,
     "introducedGroupId": "gsc"
   },
   {
     "id": "pupitar",
     "name": "Pupitar",
+    "dexNumber": 247,
     "introducedGroupId": "gsc",
     "prevolutionId": "larvitar"
   },
   {
     "id": "tyranitar",
     "name": "Tyranitar",
+    "dexNumber": 248,
     "introducedGroupId": "gsc",
     "prevolutionId": "pupitar"
   },
   {
     "id": "lugia",
     "name": "Lugia",
+    "dexNumber": 249,
     "introducedGroupId": "gsc"
   },
   {
     "id": "ho-oh",
     "name": "Ho-Oh",
+    "dexNumber": 250,
     "introducedGroupId": "gsc"
   },
   {
     "id": "celebi",
     "name": "Celebi",
+    "dexNumber": 251,
     "introducedGroupId": "gsc"
   },
   {
     "id": "treecko",
     "name": "Treecko",
+    "dexNumber": 252,
     "introducedGroupId": "rse"
   },
   {
     "id": "grovyle",
     "name": "Grovyle",
+    "dexNumber": 253,
     "introducedGroupId": "rse",
     "prevolutionId": "treecko"
   },
   {
     "id": "sceptile",
     "name": "Sceptile",
+    "dexNumber": 254,
     "introducedGroupId": "rse",
     "prevolutionId": "grovyle"
   },
   {
     "id": "torchic",
     "name": "Torchic",
+    "dexNumber": 255,
     "introducedGroupId": "rse"
   },
   {
     "id": "combusken",
     "name": "Combusken",
+    "dexNumber": 256,
     "introducedGroupId": "rse",
     "prevolutionId": "torchic"
   },
   {
     "id": "blaziken",
     "name": "Blaziken",
+    "dexNumber": 257,
     "introducedGroupId": "rse",
     "prevolutionId": "combusken"
   },
   {
     "id": "mudkip",
     "name": "Mudkip",
+    "dexNumber": 258,
     "introducedGroupId": "rse"
   },
   {
     "id": "marshtomp",
     "name": "Marshtomp",
+    "dexNumber": 259,
     "introducedGroupId": "rse",
     "prevolutionId": "mudkip"
   },
   {
     "id": "swampert",
     "name": "Swampert",
+    "dexNumber": 260,
     "introducedGroupId": "rse",
     "prevolutionId": "marshtomp"
   },
   {
     "id": "poochyena",
     "name": "Poochyena",
+    "dexNumber": 261,
     "introducedGroupId": "rse"
   },
   {
     "id": "mightyena",
     "name": "Mightyena",
+    "dexNumber": 262,
     "introducedGroupId": "rse",
     "prevolutionId": "poochyena"
   },
   {
     "id": "zigzagoon",
     "name": "Zigzagoon",
+    "dexNumber": 263,
     "introducedGroupId": "rse"
   },
   {
     "id": "linoone",
     "name": "Linoone",
+    "dexNumber": 264,
     "introducedGroupId": "rse",
     "prevolutionId": "zigzagoon"
   },
   {
     "id": "wurmple",
     "name": "Wurmple",
+    "dexNumber": 265,
     "introducedGroupId": "rse"
   },
   {
     "id": "silcoon",
     "name": "Silcoon",
+    "dexNumber": 266,
     "introducedGroupId": "rse",
     "prevolutionId": "wurmple"
   },
   {
     "id": "beautifly",
     "name": "Beautifly",
+    "dexNumber": 267,
     "introducedGroupId": "rse",
     "prevolutionId": "silcoon"
   },
   {
     "id": "cascoon",
     "name": "Cascoon",
+    "dexNumber": 268,
     "introducedGroupId": "rse",
     "prevolutionId": "wurmple"
   },
   {
     "id": "dustox",
     "name": "Dustox",
+    "dexNumber": 269,
     "introducedGroupId": "rse",
     "prevolutionId": "cascoon"
   },
   {
     "id": "lotad",
     "name": "Lotad",
+    "dexNumber": 270,
     "introducedGroupId": "rse"
   },
   {
     "id": "lombre",
     "name": "Lombre",
+    "dexNumber": 271,
     "introducedGroupId": "rse",
     "prevolutionId": "lotad"
   },
   {
     "id": "ludicolo",
     "name": "Ludicolo",
+    "dexNumber": 272,
     "introducedGroupId": "rse",
     "prevolutionId": "lombre"
   },
   {
     "id": "seedot",
     "name": "Seedot",
+    "dexNumber": 273,
     "introducedGroupId": "rse"
   },
   {
     "id": "nuzleaf",
     "name": "Nuzleaf",
+    "dexNumber": 274,
     "introducedGroupId": "rse",
     "prevolutionId": "seedot"
   },
   {
     "id": "shiftry",
     "name": "Shiftry",
+    "dexNumber": 275,
     "introducedGroupId": "rse",
     "prevolutionId": "nuzleaf"
   },
   {
     "id": "taillow",
     "name": "Taillow",
+    "dexNumber": 276,
     "introducedGroupId": "rse"
   },
   {
     "id": "swellow",
     "name": "Swellow",
+    "dexNumber": 277,
     "introducedGroupId": "rse",
     "prevolutionId": "taillow"
   },
   {
     "id": "wingull",
     "name": "Wingull",
+    "dexNumber": 278,
     "introducedGroupId": "rse"
   },
   {
     "id": "pelipper",
     "name": "Pelipper",
+    "dexNumber": 279,
     "introducedGroupId": "rse",
     "prevolutionId": "wingull"
   },
   {
     "id": "ralts",
     "name": "Ralts",
+    "dexNumber": 280,
     "introducedGroupId": "rse"
   },
   {
     "id": "kirlia",
     "name": "Kirlia",
+    "dexNumber": 281,
     "introducedGroupId": "rse",
     "prevolutionId": "ralts"
   },
   {
     "id": "gardevoir",
     "name": "Gardevoir",
+    "dexNumber": 282,
     "introducedGroupId": "rse",
     "prevolutionId": "kirlia"
   },
   {
     "id": "surskit",
     "name": "Surskit",
+    "dexNumber": 283,
     "introducedGroupId": "rse"
   },
   {
     "id": "masquerain",
     "name": "Masquerain",
+    "dexNumber": 284,
     "introducedGroupId": "rse",
     "prevolutionId": "surskit"
   },
   {
     "id": "shroomish",
     "name": "Shroomish",
+    "dexNumber": 285,
     "introducedGroupId": "rse"
   },
   {
     "id": "breloom",
     "name": "Breloom",
+    "dexNumber": 286,
     "introducedGroupId": "rse",
     "prevolutionId": "shroomish"
   },
   {
     "id": "slakoth",
     "name": "Slakoth",
+    "dexNumber": 287,
     "introducedGroupId": "rse"
   },
   {
     "id": "vigoroth",
     "name": "Vigoroth",
+    "dexNumber": 288,
     "introducedGroupId": "rse",
     "prevolutionId": "slakoth"
   },
   {
     "id": "slaking",
     "name": "Slaking",
+    "dexNumber": 289,
     "introducedGroupId": "rse",
     "prevolutionId": "vigoroth"
   },
   {
     "id": "nincada",
     "name": "Nincada",
+    "dexNumber": 290,
     "introducedGroupId": "rse"
   },
   {
     "id": "ninjask",
     "name": "Ninjask",
+    "dexNumber": 291,
     "introducedGroupId": "rse",
     "prevolutionId": "nincada"
   },
   {
     "id": "shedinja",
     "name": "Shedinja",
+    "dexNumber": 292,
     "introducedGroupId": "rse",
     "prevolutionId": "nincada"
   },
   {
     "id": "whismur",
     "name": "Whismur",
+    "dexNumber": 293,
     "introducedGroupId": "rse"
   },
   {
     "id": "loudred",
     "name": "Loudred",
+    "dexNumber": 294,
     "introducedGroupId": "rse",
     "prevolutionId": "whismur"
   },
   {
     "id": "exploud",
     "name": "Exploud",
+    "dexNumber": 295,
     "introducedGroupId": "rse",
     "prevolutionId": "loudred"
   },
   {
     "id": "makuhita",
     "name": "Makuhita",
+    "dexNumber": 296,
     "introducedGroupId": "rse"
   },
   {
     "id": "hariyama",
     "name": "Hariyama",
+    "dexNumber": 297,
     "introducedGroupId": "rse",
     "prevolutionId": "makuhita"
   },
   {
     "id": "azurill",
     "name": "Azurill",
+    "dexNumber": 298,
     "introducedGroupId": "rse"
   },
   {
     "id": "nosepass",
     "name": "Nosepass",
+    "dexNumber": 299,
     "introducedGroupId": "rse"
   },
   {
     "id": "skitty",
     "name": "Skitty",
+    "dexNumber": 300,
     "introducedGroupId": "rse"
   },
   {
     "id": "delcatty",
     "name": "Delcatty",
+    "dexNumber": 301,
     "introducedGroupId": "rse",
     "prevolutionId": "skitty"
   },
   {
     "id": "sableye",
     "name": "Sableye",
+    "dexNumber": 302,
     "introducedGroupId": "rse"
   },
   {
     "id": "mawile",
     "name": "Mawile",
+    "dexNumber": 303,
     "introducedGroupId": "rse"
   },
   {
     "id": "aron",
     "name": "Aron",
+    "dexNumber": 304,
     "introducedGroupId": "rse"
   },
   {
     "id": "lairon",
     "name": "Lairon",
+    "dexNumber": 305,
     "introducedGroupId": "rse",
     "prevolutionId": "aron"
   },
   {
     "id": "aggron",
     "name": "Aggron",
+    "dexNumber": 306,
     "introducedGroupId": "rse",
     "prevolutionId": "lairon"
   },
   {
     "id": "meditite",
     "name": "Meditite",
+    "dexNumber": 307,
     "introducedGroupId": "rse"
   },
   {
     "id": "medicham",
     "name": "Medicham",
+    "dexNumber": 308,
     "introducedGroupId": "rse",
     "prevolutionId": "meditite"
   },
   {
     "id": "electrike",
     "name": "Electrike",
+    "dexNumber": 309,
     "introducedGroupId": "rse"
   },
   {
     "id": "manectric",
     "name": "Manectric",
+    "dexNumber": 310,
     "introducedGroupId": "rse",
     "prevolutionId": "electrike"
   },
   {
     "id": "plusle",
     "name": "Plusle",
+    "dexNumber": 311,
     "introducedGroupId": "rse"
   },
   {
     "id": "minun",
     "name": "Minun",
+    "dexNumber": 312,
     "introducedGroupId": "rse"
   },
   {
     "id": "volbeat",
     "name": "Volbeat",
+    "dexNumber": 313,
     "introducedGroupId": "rse"
   },
   {
     "id": "illumise",
     "name": "Illumise",
+    "dexNumber": 314,
     "introducedGroupId": "rse"
   },
   {
     "id": "roselia",
     "name": "Roselia",
+    "dexNumber": 315,
     "introducedGroupId": "rse",
     "prevolutionId": "budew"
   },
   {
     "id": "gulpin",
     "name": "Gulpin",
+    "dexNumber": 316,
     "introducedGroupId": "rse"
   },
   {
     "id": "swalot",
     "name": "Swalot",
+    "dexNumber": 317,
     "introducedGroupId": "rse",
     "prevolutionId": "gulpin"
   },
   {
     "id": "carvanha",
     "name": "Carvanha",
+    "dexNumber": 318,
     "introducedGroupId": "rse"
   },
   {
     "id": "sharpedo",
     "name": "Sharpedo",
+    "dexNumber": 319,
     "introducedGroupId": "rse",
     "prevolutionId": "carvanha"
   },
   {
     "id": "wailmer",
     "name": "Wailmer",
+    "dexNumber": 320,
     "introducedGroupId": "rse"
   },
   {
     "id": "wailord",
     "name": "Wailord",
+    "dexNumber": 321,
     "introducedGroupId": "rse",
     "prevolutionId": "wailmer"
   },
   {
     "id": "numel",
     "name": "Numel",
+    "dexNumber": 322,
     "introducedGroupId": "rse"
   },
   {
     "id": "camerupt",
     "name": "Camerupt",
+    "dexNumber": 323,
     "introducedGroupId": "rse",
     "prevolutionId": "numel"
   },
   {
     "id": "torkoal",
     "name": "Torkoal",
+    "dexNumber": 324,
     "introducedGroupId": "rse"
   },
   {
     "id": "spoink",
     "name": "Spoink",
+    "dexNumber": 325,
     "introducedGroupId": "rse"
   },
   {
     "id": "grumpig",
     "name": "Grumpig",
+    "dexNumber": 326,
     "introducedGroupId": "rse",
     "prevolutionId": "spoink"
   },
   {
     "id": "spinda",
     "name": "Spinda",
+    "dexNumber": 327,
     "introducedGroupId": "rse"
   },
   {
     "id": "trapinch",
     "name": "Trapinch",
+    "dexNumber": 328,
     "introducedGroupId": "rse"
   },
   {
     "id": "vibrava",
     "name": "Vibrava",
+    "dexNumber": 329,
     "introducedGroupId": "rse",
     "prevolutionId": "trapinch"
   },
   {
     "id": "flygon",
     "name": "Flygon",
+    "dexNumber": 330,
     "introducedGroupId": "rse",
     "prevolutionId": "vibrava"
   },
   {
     "id": "cacnea",
     "name": "Cacnea",
+    "dexNumber": 331,
     "introducedGroupId": "rse"
   },
   {
     "id": "cacturne",
     "name": "Cacturne",
+    "dexNumber": 332,
     "introducedGroupId": "rse",
     "prevolutionId": "cacnea"
   },
   {
     "id": "swablu",
     "name": "Swablu",
+    "dexNumber": 333,
     "introducedGroupId": "rse"
   },
   {
     "id": "altaria",
     "name": "Altaria",
+    "dexNumber": 334,
     "introducedGroupId": "rse",
     "prevolutionId": "swablu"
   },
   {
     "id": "zangoose",
     "name": "Zangoose",
+    "dexNumber": 335,
     "introducedGroupId": "rse"
   },
   {
     "id": "seviper",
     "name": "Seviper",
+    "dexNumber": 336,
     "introducedGroupId": "rse"
   },
   {
     "id": "lunatone",
     "name": "Lunatone",
+    "dexNumber": 337,
     "introducedGroupId": "rse"
   },
   {
     "id": "solrock",
     "name": "Solrock",
+    "dexNumber": 338,
     "introducedGroupId": "rse"
   },
   {
     "id": "barboach",
     "name": "Barboach",
+    "dexNumber": 339,
     "introducedGroupId": "rse"
   },
   {
     "id": "whiscash",
     "name": "Whiscash",
+    "dexNumber": 340,
     "introducedGroupId": "rse",
     "prevolutionId": "barboach"
   },
   {
     "id": "corphish",
     "name": "Corphish",
+    "dexNumber": 341,
     "introducedGroupId": "rse"
   },
   {
     "id": "crawdaunt",
     "name": "Crawdaunt",
+    "dexNumber": 342,
     "introducedGroupId": "rse",
     "prevolutionId": "corphish"
   },
   {
     "id": "baltoy",
     "name": "Baltoy",
+    "dexNumber": 343,
     "introducedGroupId": "rse"
   },
   {
     "id": "claydol",
     "name": "Claydol",
+    "dexNumber": 344,
     "introducedGroupId": "rse",
     "prevolutionId": "baltoy"
   },
   {
     "id": "lileep",
     "name": "Lileep",
+    "dexNumber": 345,
     "introducedGroupId": "rse"
   },
   {
     "id": "cradily",
     "name": "Cradily",
+    "dexNumber": 346,
     "introducedGroupId": "rse",
     "prevolutionId": "lileep"
   },
   {
     "id": "anorith",
     "name": "Anorith",
+    "dexNumber": 347,
     "introducedGroupId": "rse"
   },
   {
     "id": "armaldo",
     "name": "Armaldo",
+    "dexNumber": 348,
     "introducedGroupId": "rse",
     "prevolutionId": "anorith"
   },
   {
     "id": "feebas",
     "name": "Feebas",
+    "dexNumber": 349,
     "introducedGroupId": "rse"
   },
   {
     "id": "milotic",
     "name": "Milotic",
+    "dexNumber": 350,
     "introducedGroupId": "rse",
     "prevolutionId": "feebas"
   },
   {
     "id": "castform",
     "name": "Castform",
+    "dexNumber": 351,
     "introducedGroupId": "rse"
   },
   {
     "id": "kecleon",
     "name": "Kecleon",
+    "dexNumber": 352,
     "introducedGroupId": "rse"
   },
   {
     "id": "shuppet",
     "name": "Shuppet",
+    "dexNumber": 353,
     "introducedGroupId": "rse"
   },
   {
     "id": "banette",
     "name": "Banette",
+    "dexNumber": 354,
     "introducedGroupId": "rse",
     "prevolutionId": "shuppet"
   },
   {
     "id": "duskull",
     "name": "Duskull",
+    "dexNumber": 355,
     "introducedGroupId": "rse"
   },
   {
     "id": "dusclops",
     "name": "Dusclops",
+    "dexNumber": 356,
     "introducedGroupId": "rse",
     "prevolutionId": "duskull"
   },
   {
     "id": "tropius",
     "name": "Tropius",
+    "dexNumber": 357,
     "introducedGroupId": "rse"
   },
   {
     "id": "chimecho",
     "name": "Chimecho",
+    "dexNumber": 358,
     "introducedGroupId": "rse",
     "prevolutionId": "chingling"
   },
   {
     "id": "absol",
     "name": "Absol",
+    "dexNumber": 359,
     "introducedGroupId": "rse"
   },
   {
     "id": "wynaut",
     "name": "Wynaut",
+    "dexNumber": 360,
     "introducedGroupId": "rse"
   },
   {
     "id": "snorunt",
     "name": "Snorunt",
+    "dexNumber": 361,
     "introducedGroupId": "rse"
   },
   {
     "id": "glalie",
     "name": "Glalie",
+    "dexNumber": 362,
     "introducedGroupId": "rse",
     "prevolutionId": "snorunt"
   },
   {
     "id": "spheal",
     "name": "Spheal",
+    "dexNumber": 363,
     "introducedGroupId": "rse"
   },
   {
     "id": "sealeo",
     "name": "Sealeo",
+    "dexNumber": 364,
     "introducedGroupId": "rse",
     "prevolutionId": "spheal"
   },
   {
     "id": "walrein",
     "name": "Walrein",
+    "dexNumber": 365,
     "introducedGroupId": "rse",
     "prevolutionId": "sealeo"
   },
   {
     "id": "clamperl",
     "name": "Clamperl",
+    "dexNumber": 366,
     "introducedGroupId": "rse"
   },
   {
     "id": "huntail",
     "name": "Huntail",
+    "dexNumber": 367,
     "introducedGroupId": "rse",
     "prevolutionId": "clamperl"
   },
   {
     "id": "gorebyss",
     "name": "Gorebyss",
+    "dexNumber": 368,
     "introducedGroupId": "rse",
     "prevolutionId": "clamperl"
   },
   {
     "id": "relicanth",
     "name": "Relicanth",
+    "dexNumber": 369,
     "introducedGroupId": "rse"
   },
   {
     "id": "luvdisc",
     "name": "Luvdisc",
+    "dexNumber": 370,
     "introducedGroupId": "rse"
   },
   {
     "id": "bagon",
     "name": "Bagon",
+    "dexNumber": 371,
     "introducedGroupId": "rse"
   },
   {
     "id": "shelgon",
     "name": "Shelgon",
+    "dexNumber": 372,
     "introducedGroupId": "rse",
     "prevolutionId": "bagon"
   },
   {
     "id": "salamence",
     "name": "Salamence",
+    "dexNumber": 373,
     "introducedGroupId": "rse",
     "prevolutionId": "shelgon"
   },
   {
     "id": "beldum",
     "name": "Beldum",
+    "dexNumber": 374,
     "introducedGroupId": "rse"
   },
   {
     "id": "metang",
     "name": "Metang",
+    "dexNumber": 375,
     "introducedGroupId": "rse",
     "prevolutionId": "beldum"
   },
   {
     "id": "metagross",
     "name": "Metagross",
+    "dexNumber": 376,
     "introducedGroupId": "rse",
     "prevolutionId": "metang"
   },
   {
     "id": "regirock",
     "name": "Regirock",
+    "dexNumber": 377,
     "introducedGroupId": "rse"
   },
   {
     "id": "regice",
     "name": "Regice",
+    "dexNumber": 378,
     "introducedGroupId": "rse"
   },
   {
     "id": "registeel",
     "name": "Registeel",
+    "dexNumber": 379,
     "introducedGroupId": "rse"
   },
   {
     "id": "latias",
     "name": "Latias",
+    "dexNumber": 380,
     "introducedGroupId": "rse"
   },
   {
     "id": "latios",
     "name": "Latios",
+    "dexNumber": 381,
     "introducedGroupId": "rse"
   },
   {
     "id": "kyogre",
     "name": "Kyogre",
+    "dexNumber": 382,
     "introducedGroupId": "rse"
   },
   {
     "id": "groudon",
     "name": "Groudon",
+    "dexNumber": 383,
     "introducedGroupId": "rse"
   },
   {
     "id": "rayquaza",
     "name": "Rayquaza",
+    "dexNumber": 384,
     "introducedGroupId": "rse"
   },
   {
     "id": "jirachi",
     "name": "Jirachi",
+    "dexNumber": 385,
     "introducedGroupId": "rse"
   },
   {
     "id": "deoxys",
     "name": "Deoxys",
+    "dexNumber": 386,
     "introducedGroupId": "rse"
   },
   {
     "id": "turtwig",
     "name": "Turtwig",
+    "dexNumber": 387,
     "introducedGroupId": "dpp"
   },
   {
     "id": "grotle",
     "name": "Grotle",
+    "dexNumber": 388,
     "introducedGroupId": "dpp",
     "prevolutionId": "turtwig"
   },
   {
     "id": "torterra",
     "name": "Torterra",
+    "dexNumber": 389,
     "introducedGroupId": "dpp",
     "prevolutionId": "grotle"
   },
   {
     "id": "chimchar",
     "name": "Chimchar",
+    "dexNumber": 390,
     "introducedGroupId": "dpp"
   },
   {
     "id": "monferno",
     "name": "Monferno",
+    "dexNumber": 391,
     "introducedGroupId": "dpp",
     "prevolutionId": "chimchar"
   },
   {
     "id": "infernape",
     "name": "Infernape",
+    "dexNumber": 392,
     "introducedGroupId": "dpp",
     "prevolutionId": "monferno"
   },
   {
     "id": "piplup",
     "name": "Piplup",
+    "dexNumber": 393,
     "introducedGroupId": "dpp"
   },
   {
     "id": "prinplup",
     "name": "Prinplup",
+    "dexNumber": 394,
     "introducedGroupId": "dpp",
     "prevolutionId": "piplup"
   },
   {
     "id": "empoleon",
     "name": "Empoleon",
+    "dexNumber": 395,
     "introducedGroupId": "dpp",
     "prevolutionId": "prinplup"
   },
   {
     "id": "starly",
     "name": "Starly",
+    "dexNumber": 396,
     "introducedGroupId": "dpp"
   },
   {
     "id": "staravia",
     "name": "Staravia",
+    "dexNumber": 397,
     "introducedGroupId": "dpp",
     "prevolutionId": "starly"
   },
   {
     "id": "staraptor",
     "name": "Staraptor",
+    "dexNumber": 398,
     "introducedGroupId": "dpp",
     "prevolutionId": "staravia"
   },
   {
     "id": "bidoof",
     "name": "Bidoof",
+    "dexNumber": 399,
     "introducedGroupId": "dpp"
   },
   {
     "id": "bibarel",
     "name": "Bibarel",
+    "dexNumber": 400,
     "introducedGroupId": "dpp",
     "prevolutionId": "bidoof"
   },
   {
     "id": "kricketot",
     "name": "Kricketot",
+    "dexNumber": 401,
     "introducedGroupId": "dpp"
   },
   {
     "id": "kricketune",
     "name": "Kricketune",
+    "dexNumber": 402,
     "introducedGroupId": "dpp",
     "prevolutionId": "kricketot"
   },
   {
     "id": "shinx",
     "name": "Shinx",
+    "dexNumber": 403,
     "introducedGroupId": "dpp"
   },
   {
     "id": "luxio",
     "name": "Luxio",
+    "dexNumber": 404,
     "introducedGroupId": "dpp",
     "prevolutionId": "shinx"
   },
   {
     "id": "luxray",
     "name": "Luxray",
+    "dexNumber": 405,
     "introducedGroupId": "dpp",
     "prevolutionId": "luxio"
   },
   {
     "id": "budew",
     "name": "Budew",
+    "dexNumber": 406,
     "introducedGroupId": "dpp"
   },
   {
     "id": "roserade",
     "name": "Roserade",
+    "dexNumber": 407,
     "introducedGroupId": "dpp",
     "prevolutionId": "roselia"
   },
   {
     "id": "cranidos",
     "name": "Cranidos",
+    "dexNumber": 408,
     "introducedGroupId": "dpp"
   },
   {
     "id": "rampardos",
     "name": "Rampardos",
+    "dexNumber": 409,
     "introducedGroupId": "dpp",
     "prevolutionId": "cranidos"
   },
   {
     "id": "shieldon",
     "name": "Shieldon",
+    "dexNumber": 410,
     "introducedGroupId": "dpp"
   },
   {
     "id": "bastiodon",
     "name": "Bastiodon",
+    "dexNumber": 411,
     "introducedGroupId": "dpp",
     "prevolutionId": "shieldon"
   },
   {
     "id": "burmy",
     "name": "Burmy",
+    "dexNumber": 412,
     "introducedGroupId": "dpp"
   },
   {
     "id": "wormadam",
     "name": "Wormadam",
+    "dexNumber": 413,
     "introducedGroupId": "dpp",
     "prevolutionId": "burmy"
   },
   {
     "id": "mothim",
     "name": "Mothim",
+    "dexNumber": 414,
     "introducedGroupId": "dpp",
     "prevolutionId": "burmy"
   },
   {
     "id": "combee",
     "name": "Combee",
+    "dexNumber": 415,
     "introducedGroupId": "dpp"
   },
   {
     "id": "vespiquen",
     "name": "Vespiquen",
+    "dexNumber": 416,
     "introducedGroupId": "dpp",
     "prevolutionId": "combee"
   },
   {
     "id": "pachirisu",
     "name": "Pachirisu",
+    "dexNumber": 417,
     "introducedGroupId": "dpp"
   },
   {
     "id": "buizel",
     "name": "Buizel",
+    "dexNumber": 418,
     "introducedGroupId": "dpp"
   },
   {
     "id": "floatzel",
     "name": "Floatzel",
+    "dexNumber": 419,
     "introducedGroupId": "dpp",
     "prevolutionId": "buizel"
   },
   {
     "id": "cherubi",
     "name": "Cherubi",
+    "dexNumber": 420,
     "introducedGroupId": "dpp"
   },
   {
     "id": "cherrim",
     "name": "Cherrim",
+    "dexNumber": 421,
     "introducedGroupId": "dpp",
     "prevolutionId": "cherubi"
   },
   {
     "id": "shellos",
     "name": "Shellos",
+    "dexNumber": 422,
     "introducedGroupId": "dpp"
   },
   {
     "id": "gastrodon",
     "name": "Gastrodon",
+    "dexNumber": 423,
     "introducedGroupId": "dpp",
     "prevolutionId": "shellos"
   },
   {
     "id": "ambipom",
     "name": "Ambipom",
+    "dexNumber": 424,
     "introducedGroupId": "dpp",
     "prevolutionId": "aipom"
   },
   {
     "id": "drifloon",
     "name": "Drifloon",
+    "dexNumber": 425,
     "introducedGroupId": "dpp"
   },
   {
     "id": "drifblim",
     "name": "Drifblim",
+    "dexNumber": 426,
     "introducedGroupId": "dpp",
     "prevolutionId": "drifloon"
   },
   {
     "id": "buneary",
     "name": "Buneary",
+    "dexNumber": 427,
     "introducedGroupId": "dpp"
   },
   {
     "id": "lopunny",
     "name": "Lopunny",
+    "dexNumber": 428,
     "introducedGroupId": "dpp",
     "prevolutionId": "buneary"
   },
   {
     "id": "mismagius",
     "name": "Mismagius",
+    "dexNumber": 429,
     "introducedGroupId": "dpp",
     "prevolutionId": "misdreavus"
   },
   {
     "id": "honchkrow",
     "name": "Honchkrow",
+    "dexNumber": 430,
     "introducedGroupId": "dpp",
     "prevolutionId": "murkrow"
   },
   {
     "id": "glameow",
     "name": "Glameow",
+    "dexNumber": 431,
     "introducedGroupId": "dpp"
   },
   {
     "id": "purugly",
     "name": "Purugly",
+    "dexNumber": 432,
     "introducedGroupId": "dpp",
     "prevolutionId": "glameow"
   },
   {
     "id": "chingling",
     "name": "Chingling",
+    "dexNumber": 433,
     "introducedGroupId": "dpp"
   },
   {
     "id": "stunky",
     "name": "Stunky",
+    "dexNumber": 434,
     "introducedGroupId": "dpp"
   },
   {
     "id": "skuntank",
     "name": "Skuntank",
+    "dexNumber": 435,
     "introducedGroupId": "dpp",
     "prevolutionId": "stunky"
   },
   {
     "id": "bronzor",
     "name": "Bronzor",
+    "dexNumber": 436,
     "introducedGroupId": "dpp"
   },
   {
     "id": "bronzong",
     "name": "Bronzong",
+    "dexNumber": 437,
     "introducedGroupId": "dpp",
     "prevolutionId": "bronzor"
   },
   {
     "id": "bonsly",
     "name": "Bonsly",
+    "dexNumber": 438,
     "introducedGroupId": "dpp"
   },
   {
     "id": "mime-jr",
     "name": "Mime Jr.",
+    "dexNumber": 439,
     "introducedGroupId": "dpp"
   },
   {
     "id": "happiny",
     "name": "Happiny",
+    "dexNumber": 440,
     "introducedGroupId": "dpp"
   },
   {
     "id": "chatot",
     "name": "Chatot",
+    "dexNumber": 441,
     "introducedGroupId": "dpp"
   },
   {
     "id": "spiritomb",
     "name": "Spiritomb",
+    "dexNumber": 442,
     "introducedGroupId": "dpp"
   },
   {
     "id": "gible",
     "name": "Gible",
+    "dexNumber": 443,
     "introducedGroupId": "dpp"
   },
   {
     "id": "gabite",
     "name": "Gabite",
+    "dexNumber": 444,
     "introducedGroupId": "dpp",
     "prevolutionId": "gible"
   },
   {
     "id": "garchomp",
     "name": "Garchomp",
+    "dexNumber": 445,
     "introducedGroupId": "dpp",
     "prevolutionId": "gabite"
   },
   {
     "id": "munchlax",
     "name": "Munchlax",
+    "dexNumber": 446,
     "introducedGroupId": "dpp"
   },
   {
     "id": "riolu",
     "name": "Riolu",
+    "dexNumber": 447,
     "introducedGroupId": "dpp"
   },
   {
     "id": "lucario",
     "name": "Lucario",
+    "dexNumber": 448,
     "introducedGroupId": "dpp",
     "prevolutionId": "riolu"
   },
   {
     "id": "hippopotas",
     "name": "Hippopotas",
+    "dexNumber": 449,
     "introducedGroupId": "dpp"
   },
   {
     "id": "hippowdon",
     "name": "Hippowdon",
+    "dexNumber": 450,
     "introducedGroupId": "dpp",
     "prevolutionId": "hippopotas"
   },
   {
     "id": "skorupi",
     "name": "Skorupi",
+    "dexNumber": 451,
     "introducedGroupId": "dpp"
   },
   {
     "id": "drapion",
     "name": "Drapion",
+    "dexNumber": 452,
     "introducedGroupId": "dpp",
     "prevolutionId": "skorupi"
   },
   {
     "id": "croagunk",
     "name": "Croagunk",
+    "dexNumber": 453,
     "introducedGroupId": "dpp"
   },
   {
     "id": "toxicroak",
     "name": "Toxicroak",
+    "dexNumber": 454,
     "introducedGroupId": "dpp",
     "prevolutionId": "croagunk"
   },
   {
     "id": "carnivine",
     "name": "Carnivine",
+    "dexNumber": 455,
     "introducedGroupId": "dpp"
   },
   {
     "id": "finneon",
     "name": "Finneon",
+    "dexNumber": 456,
     "introducedGroupId": "dpp"
   },
   {
     "id": "lumineon",
     "name": "Lumineon",
+    "dexNumber": 457,
     "introducedGroupId": "dpp",
     "prevolutionId": "finneon"
   },
   {
     "id": "mantyke",
     "name": "Mantyke",
+    "dexNumber": 458,
     "introducedGroupId": "dpp"
   },
   {
     "id": "snover",
     "name": "Snover",
+    "dexNumber": 459,
     "introducedGroupId": "dpp"
   },
   {
     "id": "abomasnow",
     "name": "Abomasnow",
+    "dexNumber": 460,
     "introducedGroupId": "dpp",
     "prevolutionId": "snover"
   },
   {
     "id": "weavile",
     "name": "Weavile",
+    "dexNumber": 461,
     "introducedGroupId": "dpp",
     "prevolutionId": "sneasel"
   },
   {
     "id": "magnezone",
     "name": "Magnezone",
+    "dexNumber": 462,
     "introducedGroupId": "dpp",
     "prevolutionId": "magneton"
   },
   {
     "id": "lickilicky",
     "name": "Lickilicky",
+    "dexNumber": 463,
     "introducedGroupId": "dpp",
     "prevolutionId": "lickitung"
   },
   {
     "id": "rhyperior",
     "name": "Rhyperior",
+    "dexNumber": 464,
     "introducedGroupId": "dpp",
     "prevolutionId": "rhydon"
   },
   {
     "id": "tangrowth",
     "name": "Tangrowth",
+    "dexNumber": 465,
     "introducedGroupId": "dpp",
     "prevolutionId": "tangela"
   },
   {
     "id": "electivire",
     "name": "Electivire",
+    "dexNumber": 466,
     "introducedGroupId": "dpp",
     "prevolutionId": "electabuzz"
   },
   {
     "id": "magmortar",
     "name": "Magmortar",
+    "dexNumber": 467,
     "introducedGroupId": "dpp",
     "prevolutionId": "magmar"
   },
   {
     "id": "togekiss",
     "name": "Togekiss",
+    "dexNumber": 468,
     "introducedGroupId": "dpp",
     "prevolutionId": "togetic"
   },
   {
     "id": "yanmega",
     "name": "Yanmega",
+    "dexNumber": 469,
     "introducedGroupId": "dpp",
     "prevolutionId": "yanma"
   },
   {
     "id": "leafeon",
     "name": "Leafeon",
+    "dexNumber": 470,
     "introducedGroupId": "dpp",
     "prevolutionId": "eevee"
   },
   {
     "id": "glaceon",
     "name": "Glaceon",
+    "dexNumber": 471,
     "introducedGroupId": "dpp",
     "prevolutionId": "eevee"
   },
   {
     "id": "gliscor",
     "name": "Gliscor",
+    "dexNumber": 472,
     "introducedGroupId": "dpp",
     "prevolutionId": "gligar"
   },
   {
     "id": "mamoswine",
     "name": "Mamoswine",
+    "dexNumber": 473,
     "introducedGroupId": "dpp",
     "prevolutionId": "piloswine"
   },
   {
     "id": "porygon-z",
     "name": "Porygon-Z",
+    "dexNumber": 474,
     "introducedGroupId": "dpp",
     "prevolutionId": "porygon2"
   },
   {
     "id": "gallade",
     "name": "Gallade",
+    "dexNumber": 475,
     "introducedGroupId": "dpp",
     "prevolutionId": "kirlia"
   },
   {
     "id": "probopass",
     "name": "Probopass",
+    "dexNumber": 476,
     "introducedGroupId": "dpp",
     "prevolutionId": "nosepass"
   },
   {
     "id": "dusknoir",
     "name": "Dusknoir",
+    "dexNumber": 477,
     "introducedGroupId": "dpp",
     "prevolutionId": "dusclops"
   },
   {
     "id": "froslass",
     "name": "Froslass",
+    "dexNumber": 478,
     "introducedGroupId": "dpp",
     "prevolutionId": "snorunt"
   },
   {
     "id": "rotom",
     "name": "Rotom",
+    "dexNumber": 479,
     "introducedGroupId": "dpp"
   },
   {
     "id": "uxie",
     "name": "Uxie",
+    "dexNumber": 480,
     "introducedGroupId": "dpp"
   },
   {
     "id": "mesprit",
     "name": "Mesprit",
+    "dexNumber": 481,
     "introducedGroupId": "dpp"
   },
   {
     "id": "azelf",
     "name": "Azelf",
+    "dexNumber": 482,
     "introducedGroupId": "dpp"
   },
   {
     "id": "dialga",
     "name": "Dialga",
+    "dexNumber": 483,
     "introducedGroupId": "dpp"
   },
   {
     "id": "palkia",
     "name": "Palkia",
+    "dexNumber": 484,
     "introducedGroupId": "dpp"
   },
   {
     "id": "heatran",
     "name": "Heatran",
+    "dexNumber": 485,
     "introducedGroupId": "dpp"
   },
   {
     "id": "regigigas",
     "name": "Regigigas",
+    "dexNumber": 486,
     "introducedGroupId": "dpp"
   },
   {
     "id": "giratina",
     "name": "Giratina",
+    "dexNumber": 487,
     "introducedGroupId": "dpp"
   },
   {
     "id": "cresselia",
     "name": "Cresselia",
+    "dexNumber": 488,
     "introducedGroupId": "dpp"
   },
   {
     "id": "phione",
     "name": "Phione",
+    "dexNumber": 489,
     "introducedGroupId": "dpp"
   },
   {
     "id": "manaphy",
     "name": "Manaphy",
+    "dexNumber": 490,
     "introducedGroupId": "dpp"
   },
   {
     "id": "darkrai",
     "name": "Darkrai",
+    "dexNumber": 491,
     "introducedGroupId": "dpp"
   },
   {
     "id": "shaymin",
     "name": "Shaymin",
+    "dexNumber": 492,
     "introducedGroupId": "dpp"
   },
   {
     "id": "arceus",
     "name": "Arceus",
+    "dexNumber": 493,
     "introducedGroupId": "dpp"
   },
   {
     "id": "victini",
     "name": "Victini",
+    "dexNumber": 494,
     "introducedGroupId": "bw"
   },
   {
     "id": "snivy",
     "name": "Snivy",
+    "dexNumber": 495,
     "introducedGroupId": "bw"
   },
   {
     "id": "servine",
     "name": "Servine",
+    "dexNumber": 496,
     "introducedGroupId": "bw",
     "prevolutionId": "snivy"
   },
   {
     "id": "serperior",
     "name": "Serperior",
+    "dexNumber": 497,
     "introducedGroupId": "bw",
     "prevolutionId": "servine"
   },
   {
     "id": "tepig",
     "name": "Tepig",
+    "dexNumber": 498,
     "introducedGroupId": "bw"
   },
   {
     "id": "pignite",
     "name": "Pignite",
+    "dexNumber": 499,
     "introducedGroupId": "bw",
     "prevolutionId": "tepig"
   },
   {
     "id": "emboar",
     "name": "Emboar",
+    "dexNumber": 500,
     "introducedGroupId": "bw",
     "prevolutionId": "pignite"
   },
   {
     "id": "oshawott",
     "name": "Oshawott",
+    "dexNumber": 501,
     "introducedGroupId": "bw"
   },
   {
     "id": "dewott",
     "name": "Dewott",
+    "dexNumber": 502,
     "introducedGroupId": "bw",
     "prevolutionId": "oshawott"
   },
   {
     "id": "samurott",
     "name": "Samurott",
+    "dexNumber": 503,
     "introducedGroupId": "bw",
     "prevolutionId": "dewott"
   },
   {
     "id": "patrat",
     "name": "Patrat",
+    "dexNumber": 504,
     "introducedGroupId": "bw"
   },
   {
     "id": "watchog",
     "name": "Watchog",
+    "dexNumber": 505,
     "introducedGroupId": "bw",
     "prevolutionId": "patrat"
   },
   {
     "id": "lillipup",
     "name": "Lillipup",
+    "dexNumber": 506,
     "introducedGroupId": "bw"
   },
   {
     "id": "herdier",
     "name": "Herdier",
+    "dexNumber": 507,
     "introducedGroupId": "bw",
     "prevolutionId": "lillipup"
   },
   {
     "id": "stoutland",
     "name": "Stoutland",
+    "dexNumber": 508,
     "introducedGroupId": "bw",
     "prevolutionId": "herdier"
   },
   {
     "id": "purrloin",
     "name": "Purrloin",
+    "dexNumber": 509,
     "introducedGroupId": "bw"
   },
   {
     "id": "liepard",
     "name": "Liepard",
+    "dexNumber": 510,
     "introducedGroupId": "bw",
     "prevolutionId": "purrloin"
   },
   {
     "id": "pansage",
     "name": "Pansage",
+    "dexNumber": 511,
     "introducedGroupId": "bw"
   },
   {
     "id": "simisage",
     "name": "Simisage",
+    "dexNumber": 512,
     "introducedGroupId": "bw",
     "prevolutionId": "pansage"
   },
   {
     "id": "pansear",
     "name": "Pansear",
+    "dexNumber": 513,
     "introducedGroupId": "bw"
   },
   {
     "id": "simisear",
     "name": "Simisear",
+    "dexNumber": 514,
     "introducedGroupId": "bw",
     "prevolutionId": "pansear"
   },
   {
     "id": "panpour",
     "name": "Panpour",
+    "dexNumber": 515,
     "introducedGroupId": "bw"
   },
   {
     "id": "simipour",
     "name": "Simipour",
+    "dexNumber": 516,
     "introducedGroupId": "bw",
     "prevolutionId": "panpour"
   },
   {
     "id": "munna",
     "name": "Munna",
+    "dexNumber": 517,
     "introducedGroupId": "bw"
   },
   {
     "id": "musharna",
     "name": "Musharna",
+    "dexNumber": 518,
     "introducedGroupId": "bw",
     "prevolutionId": "munna"
   },
   {
     "id": "pidove",
     "name": "Pidove",
+    "dexNumber": 519,
     "introducedGroupId": "bw"
   },
   {
     "id": "tranquill",
     "name": "Tranquill",
+    "dexNumber": 520,
     "introducedGroupId": "bw",
     "prevolutionId": "pidove"
   },
   {
     "id": "unfezant",
     "name": "Unfezant",
+    "dexNumber": 521,
     "introducedGroupId": "bw",
     "prevolutionId": "tranquill"
   },
   {
     "id": "blitzle",
     "name": "Blitzle",
+    "dexNumber": 522,
     "introducedGroupId": "bw"
   },
   {
     "id": "zebstrika",
     "name": "Zebstrika",
+    "dexNumber": 523,
     "introducedGroupId": "bw",
     "prevolutionId": "blitzle"
   },
   {
     "id": "roggenrola",
     "name": "Roggenrola",
+    "dexNumber": 524,
     "introducedGroupId": "bw"
   },
   {
     "id": "boldore",
     "name": "Boldore",
+    "dexNumber": 525,
     "introducedGroupId": "bw",
     "prevolutionId": "roggenrola"
   },
   {
     "id": "gigalith",
     "name": "Gigalith",
+    "dexNumber": 526,
     "introducedGroupId": "bw",
     "prevolutionId": "boldore"
   },
   {
     "id": "woobat",
     "name": "Woobat",
+    "dexNumber": 527,
     "introducedGroupId": "bw"
   },
   {
     "id": "swoobat",
     "name": "Swoobat",
+    "dexNumber": 528,
     "introducedGroupId": "bw",
     "prevolutionId": "woobat"
   },
   {
     "id": "drilbur",
     "name": "Drilbur",
+    "dexNumber": 529,
     "introducedGroupId": "bw"
   },
   {
     "id": "excadrill",
     "name": "Excadrill",
+    "dexNumber": 530,
     "introducedGroupId": "bw",
     "prevolutionId": "drilbur"
   },
   {
     "id": "audino",
     "name": "Audino",
+    "dexNumber": 531,
     "introducedGroupId": "bw"
   },
   {
     "id": "timburr",
     "name": "Timburr",
+    "dexNumber": 532,
     "introducedGroupId": "bw"
   },
   {
     "id": "gurdurr",
     "name": "Gurdurr",
+    "dexNumber": 533,
     "introducedGroupId": "bw",
     "prevolutionId": "timburr"
   },
   {
     "id": "conkeldurr",
     "name": "Conkeldurr",
+    "dexNumber": 534,
     "introducedGroupId": "bw",
     "prevolutionId": "gurdurr"
   },
   {
     "id": "tympole",
     "name": "Tympole",
+    "dexNumber": 535,
     "introducedGroupId": "bw"
   },
   {
     "id": "palpitoad",
     "name": "Palpitoad",
+    "dexNumber": 536,
     "introducedGroupId": "bw",
     "prevolutionId": "tympole"
   },
   {
     "id": "seismitoad",
     "name": "Seismitoad",
+    "dexNumber": 537,
     "introducedGroupId": "bw",
     "prevolutionId": "palpitoad"
   },
   {
     "id": "throh",
     "name": "Throh",
+    "dexNumber": 538,
     "introducedGroupId": "bw"
   },
   {
     "id": "sawk",
     "name": "Sawk",
+    "dexNumber": 539,
     "introducedGroupId": "bw"
   },
   {
     "id": "sewaddle",
     "name": "Sewaddle",
+    "dexNumber": 540,
     "introducedGroupId": "bw"
   },
   {
     "id": "swadloon",
     "name": "Swadloon",
+    "dexNumber": 541,
     "introducedGroupId": "bw",
     "prevolutionId": "sewaddle"
   },
   {
     "id": "leavanny",
     "name": "Leavanny",
+    "dexNumber": 542,
     "introducedGroupId": "bw",
     "prevolutionId": "swadloon"
   },
   {
     "id": "venipede",
     "name": "Venipede",
+    "dexNumber": 543,
     "introducedGroupId": "bw"
   },
   {
     "id": "whirlipede",
     "name": "Whirlipede",
+    "dexNumber": 544,
     "introducedGroupId": "bw",
     "prevolutionId": "venipede"
   },
   {
     "id": "scolipede",
     "name": "Scolipede",
+    "dexNumber": 545,
     "introducedGroupId": "bw",
     "prevolutionId": "whirlipede"
   },
   {
     "id": "cottonee",
     "name": "Cottonee",
+    "dexNumber": 546,
     "introducedGroupId": "bw"
   },
   {
     "id": "whimsicott",
     "name": "Whimsicott",
+    "dexNumber": 547,
     "introducedGroupId": "bw",
     "prevolutionId": "cottonee"
   },
   {
     "id": "petilil",
     "name": "Petilil",
+    "dexNumber": 548,
     "introducedGroupId": "bw"
   },
   {
     "id": "lilligant",
     "name": "Lilligant",
+    "dexNumber": 549,
     "introducedGroupId": "bw",
     "prevolutionId": "petilil"
   },
   {
     "id": "basculin",
     "name": "Basculin",
+    "dexNumber": 550,
     "introducedGroupId": "bw"
   },
   {
     "id": "sandile",
     "name": "Sandile",
+    "dexNumber": 551,
     "introducedGroupId": "bw"
   },
   {
     "id": "krokorok",
     "name": "Krokorok",
+    "dexNumber": 552,
     "introducedGroupId": "bw",
     "prevolutionId": "sandile"
   },
   {
     "id": "krookodile",
     "name": "Krookodile",
+    "dexNumber": 553,
     "introducedGroupId": "bw",
     "prevolutionId": "krokorok"
   },
   {
     "id": "darumaka",
     "name": "Darumaka",
+    "dexNumber": 554,
     "introducedGroupId": "bw"
   },
   {
     "id": "darmanitan",
     "name": "Darmanitan",
+    "dexNumber": 555,
     "introducedGroupId": "bw",
     "prevolutionId": "darumaka"
   },
   {
     "id": "maractus",
     "name": "Maractus",
+    "dexNumber": 556,
     "introducedGroupId": "bw"
   },
   {
     "id": "dwebble",
     "name": "Dwebble",
+    "dexNumber": 557,
     "introducedGroupId": "bw"
   },
   {
     "id": "crustle",
     "name": "Crustle",
+    "dexNumber": 558,
     "introducedGroupId": "bw",
     "prevolutionId": "dwebble"
   },
   {
     "id": "scraggy",
     "name": "Scraggy",
+    "dexNumber": 559,
     "introducedGroupId": "bw"
   },
   {
     "id": "scrafty",
     "name": "Scrafty",
+    "dexNumber": 560,
     "introducedGroupId": "bw",
     "prevolutionId": "scraggy"
   },
   {
     "id": "sigilyph",
     "name": "Sigilyph",
+    "dexNumber": 561,
     "introducedGroupId": "bw"
   },
   {
     "id": "yamask",
     "name": "Yamask",
+    "dexNumber": 562,
     "introducedGroupId": "bw"
   },
   {
     "id": "cofagrigus",
     "name": "Cofagrigus",
+    "dexNumber": 563,
     "introducedGroupId": "bw",
     "prevolutionId": "yamask"
   },
   {
     "id": "tirtouga",
     "name": "Tirtouga",
+    "dexNumber": 564,
     "introducedGroupId": "bw"
   },
   {
     "id": "carracosta",
     "name": "Carracosta",
+    "dexNumber": 565,
     "introducedGroupId": "bw",
     "prevolutionId": "tirtouga"
   },
   {
     "id": "archen",
     "name": "Archen",
+    "dexNumber": 566,
     "introducedGroupId": "bw"
   },
   {
     "id": "archeops",
     "name": "Archeops",
+    "dexNumber": 567,
     "introducedGroupId": "bw",
     "prevolutionId": "archen"
   },
   {
     "id": "trubbish",
     "name": "Trubbish",
+    "dexNumber": 568,
     "introducedGroupId": "bw"
   },
   {
     "id": "garbodor",
     "name": "Garbodor",
+    "dexNumber": 569,
     "introducedGroupId": "bw",
     "prevolutionId": "trubbish"
   },
   {
     "id": "zorua",
     "name": "Zorua",
+    "dexNumber": 570,
     "introducedGroupId": "bw"
   },
   {
     "id": "zoroark",
     "name": "Zoroark",
+    "dexNumber": 571,
     "introducedGroupId": "bw",
     "prevolutionId": "zorua"
   },
   {
     "id": "minccino",
     "name": "Minccino",
+    "dexNumber": 572,
     "introducedGroupId": "bw"
   },
   {
     "id": "cinccino",
     "name": "Cinccino",
+    "dexNumber": 573,
     "introducedGroupId": "bw",
     "prevolutionId": "minccino"
   },
   {
     "id": "gothita",
     "name": "Gothita",
+    "dexNumber": 574,
     "introducedGroupId": "bw"
   },
   {
     "id": "gothorita",
     "name": "Gothorita",
+    "dexNumber": 575,
     "introducedGroupId": "bw",
     "prevolutionId": "gothita"
   },
   {
     "id": "gothitelle",
     "name": "Gothitelle",
+    "dexNumber": 576,
     "introducedGroupId": "bw",
     "prevolutionId": "gothorita"
   },
   {
     "id": "solosis",
     "name": "Solosis",
+    "dexNumber": 577,
     "introducedGroupId": "bw"
   },
   {
     "id": "duosion",
     "name": "Duosion",
+    "dexNumber": 578,
     "introducedGroupId": "bw",
     "prevolutionId": "solosis"
   },
   {
     "id": "reuniclus",
     "name": "Reuniclus",
+    "dexNumber": 579,
     "introducedGroupId": "bw",
     "prevolutionId": "duosion"
   },
   {
     "id": "ducklett",
     "name": "Ducklett",
+    "dexNumber": 580,
     "introducedGroupId": "bw"
   },
   {
     "id": "swanna",
     "name": "Swanna",
+    "dexNumber": 581,
     "introducedGroupId": "bw",
     "prevolutionId": "ducklett"
   },
   {
     "id": "vanillite",
     "name": "Vanillite",
+    "dexNumber": 582,
     "introducedGroupId": "bw"
   },
   {
     "id": "vanillish",
     "name": "Vanillish",
+    "dexNumber": 583,
     "introducedGroupId": "bw",
     "prevolutionId": "vanillite"
   },
   {
     "id": "vanilluxe",
     "name": "Vanilluxe",
+    "dexNumber": 584,
     "introducedGroupId": "bw",
     "prevolutionId": "vanillish"
   },
   {
     "id": "deerling",
     "name": "Deerling",
+    "dexNumber": 585,
     "introducedGroupId": "bw"
   },
   {
     "id": "sawsbuck",
     "name": "Sawsbuck",
+    "dexNumber": 586,
     "introducedGroupId": "bw",
     "prevolutionId": "deerling"
   },
   {
     "id": "emolga",
     "name": "Emolga",
+    "dexNumber": 587,
     "introducedGroupId": "bw"
   },
   {
     "id": "karrablast",
     "name": "Karrablast",
+    "dexNumber": 588,
     "introducedGroupId": "bw"
   },
   {
     "id": "escavalier",
     "name": "Escavalier",
+    "dexNumber": 589,
     "introducedGroupId": "bw",
     "prevolutionId": "karrablast"
   },
   {
     "id": "foongus",
     "name": "Foongus",
+    "dexNumber": 590,
     "introducedGroupId": "bw"
   },
   {
     "id": "amoonguss",
     "name": "Amoonguss",
+    "dexNumber": 591,
     "introducedGroupId": "bw",
     "prevolutionId": "foongus"
   },
   {
     "id": "frillish",
     "name": "Frillish",
+    "dexNumber": 592,
     "introducedGroupId": "bw"
   },
   {
     "id": "jellicent",
     "name": "Jellicent",
+    "dexNumber": 593,
     "introducedGroupId": "bw",
     "prevolutionId": "frillish"
   },
   {
     "id": "alomomola",
     "name": "Alomomola",
+    "dexNumber": 594,
     "introducedGroupId": "bw"
   },
   {
     "id": "joltik",
     "name": "Joltik",
+    "dexNumber": 595,
     "introducedGroupId": "bw"
   },
   {
     "id": "galvantula",
     "name": "Galvantula",
+    "dexNumber": 596,
     "introducedGroupId": "bw",
     "prevolutionId": "joltik"
   },
   {
     "id": "ferroseed",
     "name": "Ferroseed",
+    "dexNumber": 597,
     "introducedGroupId": "bw"
   },
   {
     "id": "ferrothorn",
     "name": "Ferrothorn",
+    "dexNumber": 598,
     "introducedGroupId": "bw",
     "prevolutionId": "ferroseed"
   },
   {
     "id": "klink",
     "name": "Klink",
+    "dexNumber": 599,
     "introducedGroupId": "bw"
   },
   {
     "id": "klang",
     "name": "Klang",
+    "dexNumber": 600,
     "introducedGroupId": "bw",
     "prevolutionId": "klink"
   },
   {
     "id": "klinklang",
     "name": "Klinklang",
+    "dexNumber": 601,
     "introducedGroupId": "bw",
     "prevolutionId": "klang"
   },
   {
     "id": "tynamo",
     "name": "Tynamo",
+    "dexNumber": 602,
     "introducedGroupId": "bw"
   },
   {
     "id": "eelektrik",
     "name": "Eelektrik",
+    "dexNumber": 603,
     "introducedGroupId": "bw",
     "prevolutionId": "tynamo"
   },
   {
     "id": "eelektross",
     "name": "Eelektross",
+    "dexNumber": 604,
     "introducedGroupId": "bw",
     "prevolutionId": "eelektrik"
   },
   {
     "id": "elgyem",
     "name": "Elgyem",
+    "dexNumber": 605,
     "introducedGroupId": "bw"
   },
   {
     "id": "beheeyem",
     "name": "Beheeyem",
+    "dexNumber": 606,
     "introducedGroupId": "bw",
     "prevolutionId": "elgyem"
   },
   {
     "id": "litwick",
     "name": "Litwick",
+    "dexNumber": 607,
     "introducedGroupId": "bw"
   },
   {
     "id": "lampent",
     "name": "Lampent",
+    "dexNumber": 608,
     "introducedGroupId": "bw",
     "prevolutionId": "litwick"
   },
   {
     "id": "chandelure",
     "name": "Chandelure",
+    "dexNumber": 609,
     "introducedGroupId": "bw",
     "prevolutionId": "lampent"
   },
   {
     "id": "axew",
     "name": "Axew",
+    "dexNumber": 610,
     "introducedGroupId": "bw"
   },
   {
     "id": "fraxure",
     "name": "Fraxure",
+    "dexNumber": 611,
     "introducedGroupId": "bw",
     "prevolutionId": "axew"
   },
   {
     "id": "haxorus",
     "name": "Haxorus",
+    "dexNumber": 612,
     "introducedGroupId": "bw",
     "prevolutionId": "fraxure"
   },
   {
     "id": "cubchoo",
     "name": "Cubchoo",
+    "dexNumber": 613,
     "introducedGroupId": "bw"
   },
   {
     "id": "beartic",
     "name": "Beartic",
+    "dexNumber": 614,
     "introducedGroupId": "bw",
     "prevolutionId": "cubchoo"
   },
   {
     "id": "cryogonal",
     "name": "Cryogonal",
+    "dexNumber": 615,
     "introducedGroupId": "bw"
   },
   {
     "id": "shelmet",
     "name": "Shelmet",
+    "dexNumber": 616,
     "introducedGroupId": "bw"
   },
   {
     "id": "accelgor",
     "name": "Accelgor",
+    "dexNumber": 617,
     "introducedGroupId": "bw",
     "prevolutionId": "shelmet"
   },
   {
     "id": "stunfisk",
     "name": "Stunfisk",
+    "dexNumber": 618,
     "introducedGroupId": "bw"
   },
   {
     "id": "mienfoo",
     "name": "Mienfoo",
+    "dexNumber": 619,
     "introducedGroupId": "bw"
   },
   {
     "id": "mienshao",
     "name": "Mienshao",
+    "dexNumber": 620,
     "introducedGroupId": "bw",
     "prevolutionId": "mienfoo"
   },
   {
     "id": "druddigon",
     "name": "Druddigon",
+    "dexNumber": 621,
     "introducedGroupId": "bw"
   },
   {
     "id": "golett",
     "name": "Golett",
+    "dexNumber": 622,
     "introducedGroupId": "bw"
   },
   {
     "id": "golurk",
     "name": "Golurk",
+    "dexNumber": 623,
     "introducedGroupId": "bw",
     "prevolutionId": "golett"
   },
   {
     "id": "pawniard",
     "name": "Pawniard",
+    "dexNumber": 624,
     "introducedGroupId": "bw"
   },
   {
     "id": "bisharp",
     "name": "Bisharp",
+    "dexNumber": 625,
     "introducedGroupId": "bw",
     "prevolutionId": "pawniard"
   },
   {
     "id": "bouffalant",
     "name": "Bouffalant",
+    "dexNumber": 626,
     "introducedGroupId": "bw"
   },
   {
     "id": "rufflet",
     "name": "Rufflet",
+    "dexNumber": 627,
     "introducedGroupId": "bw"
   },
   {
     "id": "braviary",
     "name": "Braviary",
+    "dexNumber": 628,
     "introducedGroupId": "bw",
     "prevolutionId": "rufflet"
   },
   {
     "id": "vullaby",
     "name": "Vullaby",
+    "dexNumber": 629,
     "introducedGroupId": "bw"
   },
   {
     "id": "mandibuzz",
     "name": "Mandibuzz",
+    "dexNumber": 630,
     "introducedGroupId": "bw",
     "prevolutionId": "vullaby"
   },
   {
     "id": "heatmor",
     "name": "Heatmor",
+    "dexNumber": 631,
     "introducedGroupId": "bw"
   },
   {
     "id": "durant",
     "name": "Durant",
+    "dexNumber": 632,
     "introducedGroupId": "bw"
   },
   {
     "id": "deino",
     "name": "Deino",
+    "dexNumber": 633,
     "introducedGroupId": "bw"
   },
   {
     "id": "zweilous",
     "name": "Zweilous",
+    "dexNumber": 634,
     "introducedGroupId": "bw",
     "prevolutionId": "deino"
   },
   {
     "id": "hydreigon",
     "name": "Hydreigon",
+    "dexNumber": 635,
     "introducedGroupId": "bw",
     "prevolutionId": "zweilous"
   },
   {
     "id": "larvesta",
     "name": "Larvesta",
+    "dexNumber": 636,
     "introducedGroupId": "bw"
   },
   {
     "id": "volcarona",
     "name": "Volcarona",
+    "dexNumber": 637,
     "introducedGroupId": "bw",
     "prevolutionId": "larvesta"
   },
   {
     "id": "cobalion",
     "name": "Cobalion",
+    "dexNumber": 638,
     "introducedGroupId": "bw"
   },
   {
     "id": "terrakion",
     "name": "Terrakion",
+    "dexNumber": 639,
     "introducedGroupId": "bw"
   },
   {
     "id": "virizion",
     "name": "Virizion",
+    "dexNumber": 640,
     "introducedGroupId": "bw"
   },
   {
     "id": "tornadus",
     "name": "Tornadus",
+    "dexNumber": 641,
     "introducedGroupId": "bw"
   },
   {
     "id": "thundurus",
     "name": "Thundurus",
+    "dexNumber": 642,
     "introducedGroupId": "bw"
   },
   {
     "id": "reshiram",
     "name": "Reshiram",
+    "dexNumber": 643,
     "introducedGroupId": "bw"
   },
   {
     "id": "zekrom",
     "name": "Zekrom",
+    "dexNumber": 644,
     "introducedGroupId": "bw"
   },
   {
     "id": "landorus",
     "name": "Landorus",
+    "dexNumber": 645,
     "introducedGroupId": "bw"
   },
   {
     "id": "kyurem",
     "name": "Kyurem",
+    "dexNumber": 646,
     "introducedGroupId": "bw"
   },
   {
     "id": "keldeo",
     "name": "Keldeo",
+    "dexNumber": 647,
     "introducedGroupId": "bw"
   },
   {
     "id": "meloetta",
     "name": "Meloetta",
+    "dexNumber": 648,
     "introducedGroupId": "bw"
   },
   {
     "id": "genesect",
     "name": "Genesect",
+    "dexNumber": 649,
     "introducedGroupId": "bw"
   },
   {
     "id": "chespin",
     "name": "Chespin",
+    "dexNumber": 650,
     "introducedGroupId": "xy"
   },
   {
     "id": "quilladin",
     "name": "Quilladin",
+    "dexNumber": 651,
     "introducedGroupId": "xy",
     "prevolutionId": "chespin"
   },
   {
     "id": "chesnaught",
     "name": "Chesnaught",
+    "dexNumber": 652,
     "introducedGroupId": "xy",
     "prevolutionId": "quilladin"
   },
   {
     "id": "fennekin",
     "name": "Fennekin",
+    "dexNumber": 653,
     "introducedGroupId": "xy"
   },
   {
     "id": "braixen",
     "name": "Braixen",
+    "dexNumber": 654,
     "introducedGroupId": "xy",
     "prevolutionId": "fennekin"
   },
   {
     "id": "delphox",
     "name": "Delphox",
+    "dexNumber": 655,
     "introducedGroupId": "xy",
     "prevolutionId": "braixen"
   },
   {
     "id": "froakie",
     "name": "Froakie",
+    "dexNumber": 656,
     "introducedGroupId": "xy"
   },
   {
     "id": "frogadier",
     "name": "Frogadier",
+    "dexNumber": 657,
     "introducedGroupId": "xy",
     "prevolutionId": "froakie"
   },
   {
     "id": "greninja",
     "name": "Greninja",
+    "dexNumber": 658,
     "introducedGroupId": "xy",
     "prevolutionId": "frogadier"
   },
   {
     "id": "bunnelby",
     "name": "Bunnelby",
+    "dexNumber": 659,
     "introducedGroupId": "xy"
   },
   {
     "id": "diggersby",
     "name": "Diggersby",
+    "dexNumber": 660,
     "introducedGroupId": "xy",
     "prevolutionId": "bunnelby"
   },
   {
     "id": "fletchling",
     "name": "Fletchling",
+    "dexNumber": 661,
     "introducedGroupId": "xy"
   },
   {
     "id": "fletchinder",
     "name": "Fletchinder",
+    "dexNumber": 662,
     "introducedGroupId": "xy",
     "prevolutionId": "fletchling"
   },
   {
     "id": "talonflame",
     "name": "Talonflame",
+    "dexNumber": 663,
     "introducedGroupId": "xy",
     "prevolutionId": "fletchinder"
   },
   {
     "id": "scatterbug",
     "name": "Scatterbug",
+    "dexNumber": 664,
     "introducedGroupId": "xy"
   },
   {
     "id": "spewpa",
     "name": "Spewpa",
+    "dexNumber": 665,
     "introducedGroupId": "xy",
     "prevolutionId": "scatterbug"
   },
   {
     "id": "vivillon",
     "name": "Vivillon",
+    "dexNumber": 666,
     "introducedGroupId": "xy",
     "prevolutionId": "spewpa"
   },
   {
     "id": "litleo",
     "name": "Litleo",
+    "dexNumber": 667,
     "introducedGroupId": "xy"
   },
   {
     "id": "pyroar",
     "name": "Pyroar",
+    "dexNumber": 668,
     "introducedGroupId": "xy",
     "prevolutionId": "litleo"
   },
   {
     "id": "flabe-be",
     "name": "Flabébé",
+    "dexNumber": 669,
     "introducedGroupId": "xy"
   },
   {
     "id": "floette",
     "name": "Floette",
+    "dexNumber": 670,
     "introducedGroupId": "xy",
     "prevolutionId": "flabe-be"
   },
   {
     "id": "florges",
     "name": "Florges",
+    "dexNumber": 671,
     "introducedGroupId": "xy",
     "prevolutionId": "floette"
   },
   {
     "id": "skiddo",
     "name": "Skiddo",
+    "dexNumber": 672,
     "introducedGroupId": "xy"
   },
   {
     "id": "gogoat",
     "name": "Gogoat",
+    "dexNumber": 673,
     "introducedGroupId": "xy",
     "prevolutionId": "skiddo"
   },
   {
     "id": "pancham",
     "name": "Pancham",
+    "dexNumber": 674,
     "introducedGroupId": "xy"
   },
   {
     "id": "pangoro",
     "name": "Pangoro",
+    "dexNumber": 675,
     "introducedGroupId": "xy",
     "prevolutionId": "pancham"
   },
   {
     "id": "furfrou",
     "name": "Furfrou",
+    "dexNumber": 676,
     "introducedGroupId": "xy"
   },
   {
     "id": "espurr",
     "name": "Espurr",
+    "dexNumber": 677,
     "introducedGroupId": "xy"
   },
   {
     "id": "meowstic",
     "name": "Meowstic",
+    "dexNumber": 678,
     "introducedGroupId": "xy",
     "prevolutionId": "espurr"
   },
   {
     "id": "honedge",
     "name": "Honedge",
+    "dexNumber": 679,
     "introducedGroupId": "xy"
   },
   {
     "id": "doublade",
     "name": "Doublade",
+    "dexNumber": 680,
     "introducedGroupId": "xy",
     "prevolutionId": "honedge"
   },
   {
     "id": "aegislash",
     "name": "Aegislash",
+    "dexNumber": 681,
     "introducedGroupId": "xy",
     "prevolutionId": "doublade"
   },
   {
     "id": "spritzee",
     "name": "Spritzee",
+    "dexNumber": 682,
     "introducedGroupId": "xy"
   },
   {
     "id": "aromatisse",
     "name": "Aromatisse",
+    "dexNumber": 683,
     "introducedGroupId": "xy",
     "prevolutionId": "spritzee"
   },
   {
     "id": "swirlix",
     "name": "Swirlix",
+    "dexNumber": 684,
     "introducedGroupId": "xy"
   },
   {
     "id": "slurpuff",
     "name": "Slurpuff",
+    "dexNumber": 685,
     "introducedGroupId": "xy",
     "prevolutionId": "swirlix"
   },
   {
     "id": "inkay",
     "name": "Inkay",
+    "dexNumber": 686,
     "introducedGroupId": "xy"
   },
   {
     "id": "malamar",
     "name": "Malamar",
+    "dexNumber": 687,
     "introducedGroupId": "xy",
     "prevolutionId": "inkay"
   },
   {
     "id": "binacle",
     "name": "Binacle",
+    "dexNumber": 688,
     "introducedGroupId": "xy"
   },
   {
     "id": "barbaracle",
     "name": "Barbaracle",
+    "dexNumber": 689,
     "introducedGroupId": "xy",
     "prevolutionId": "binacle"
   },
   {
     "id": "skrelp",
     "name": "Skrelp",
+    "dexNumber": 690,
     "introducedGroupId": "xy"
   },
   {
     "id": "dragalge",
     "name": "Dragalge",
+    "dexNumber": 691,
     "introducedGroupId": "xy",
     "prevolutionId": "skrelp"
   },
   {
     "id": "clauncher",
     "name": "Clauncher",
+    "dexNumber": 692,
     "introducedGroupId": "xy"
   },
   {
     "id": "clawitzer",
     "name": "Clawitzer",
+    "dexNumber": 693,
     "introducedGroupId": "xy",
     "prevolutionId": "clauncher"
   },
   {
     "id": "helioptile",
     "name": "Helioptile",
+    "dexNumber": 694,
     "introducedGroupId": "xy"
   },
   {
     "id": "heliolisk",
     "name": "Heliolisk",
+    "dexNumber": 695,
     "introducedGroupId": "xy",
     "prevolutionId": "helioptile"
   },
   {
     "id": "tyrunt",
     "name": "Tyrunt",
+    "dexNumber": 696,
     "introducedGroupId": "xy"
   },
   {
     "id": "tyrantrum",
     "name": "Tyrantrum",
+    "dexNumber": 697,
     "introducedGroupId": "xy",
     "prevolutionId": "tyrunt"
   },
   {
     "id": "amaura",
     "name": "Amaura",
+    "dexNumber": 698,
     "introducedGroupId": "xy"
   },
   {
     "id": "aurorus",
     "name": "Aurorus",
+    "dexNumber": 699,
     "introducedGroupId": "xy",
     "prevolutionId": "amaura"
   },
   {
     "id": "sylveon",
     "name": "Sylveon",
+    "dexNumber": 700,
     "introducedGroupId": "xy",
     "prevolutionId": "eevee"
   },
   {
     "id": "hawlucha",
     "name": "Hawlucha",
+    "dexNumber": 701,
     "introducedGroupId": "xy"
   },
   {
     "id": "dedenne",
     "name": "Dedenne",
+    "dexNumber": 702,
     "introducedGroupId": "xy"
   },
   {
     "id": "carbink",
     "name": "Carbink",
+    "dexNumber": 703,
     "introducedGroupId": "xy"
   },
   {
     "id": "goomy",
     "name": "Goomy",
+    "dexNumber": 704,
     "introducedGroupId": "xy"
   },
   {
     "id": "sliggoo",
     "name": "Sliggoo",
+    "dexNumber": 705,
     "introducedGroupId": "xy",
     "prevolutionId": "goomy"
   },
   {
     "id": "goodra",
     "name": "Goodra",
+    "dexNumber": 706,
     "introducedGroupId": "xy",
     "prevolutionId": "sliggoo"
   },
   {
     "id": "klefki",
     "name": "Klefki",
+    "dexNumber": 707,
     "introducedGroupId": "xy"
   },
   {
     "id": "phantump",
     "name": "Phantump",
+    "dexNumber": 708,
     "introducedGroupId": "xy"
   },
   {
     "id": "trevenant",
     "name": "Trevenant",
+    "dexNumber": 709,
     "introducedGroupId": "xy",
     "prevolutionId": "phantump"
   },
   {
     "id": "pumpkaboo",
     "name": "Pumpkaboo",
+    "dexNumber": 710,
     "introducedGroupId": "xy"
   },
   {
     "id": "gourgeist",
     "name": "Gourgeist",
+    "dexNumber": 711,
     "introducedGroupId": "xy",
     "prevolutionId": "pumpkaboo"
   },
   {
     "id": "bergmite",
     "name": "Bergmite",
+    "dexNumber": 712,
     "introducedGroupId": "xy"
   },
   {
     "id": "avalugg",
     "name": "Avalugg",
+    "dexNumber": 713,
     "introducedGroupId": "xy",
     "prevolutionId": "bergmite"
   },
   {
     "id": "noibat",
     "name": "Noibat",
+    "dexNumber": 714,
     "introducedGroupId": "xy"
   },
   {
     "id": "noivern",
     "name": "Noivern",
+    "dexNumber": 715,
     "introducedGroupId": "xy",
     "prevolutionId": "noibat"
   },
   {
     "id": "xerneas",
     "name": "Xerneas",
+    "dexNumber": 716,
     "introducedGroupId": "xy"
   },
   {
     "id": "yveltal",
     "name": "Yveltal",
+    "dexNumber": 717,
     "introducedGroupId": "xy"
   },
   {
     "id": "zygarde",
     "name": "Zygarde",
+    "dexNumber": 718,
     "introducedGroupId": "xy"
   },
   {
     "id": "diancie",
     "name": "Diancie",
+    "dexNumber": 719,
     "introducedGroupId": "xy"
   },
   {
     "id": "hoopa",
     "name": "Hoopa",
+    "dexNumber": 720,
     "introducedGroupId": "xy"
   },
   {
     "id": "volcanion",
     "name": "Volcanion",
+    "dexNumber": 721,
     "introducedGroupId": "xy"
   },
   {
     "id": "rowlet",
     "name": "Rowlet",
+    "dexNumber": 722,
     "introducedGroupId": "sm"
   },
   {
     "id": "dartrix",
     "name": "Dartrix",
+    "dexNumber": 723,
     "introducedGroupId": "sm",
     "prevolutionId": "rowlet"
   },
   {
     "id": "decidueye",
     "name": "Decidueye",
+    "dexNumber": 724,
     "introducedGroupId": "sm",
     "prevolutionId": "dartrix"
   },
   {
     "id": "litten",
     "name": "Litten",
+    "dexNumber": 725,
     "introducedGroupId": "sm"
   },
   {
     "id": "torracat",
     "name": "Torracat",
+    "dexNumber": 726,
     "introducedGroupId": "sm",
     "prevolutionId": "litten"
   },
   {
     "id": "incineroar",
     "name": "Incineroar",
+    "dexNumber": 727,
     "introducedGroupId": "sm",
     "prevolutionId": "torracat"
   },
   {
     "id": "popplio",
     "name": "Popplio",
+    "dexNumber": 728,
     "introducedGroupId": "sm"
   },
   {
     "id": "brionne",
     "name": "Brionne",
+    "dexNumber": 729,
     "introducedGroupId": "sm",
     "prevolutionId": "popplio"
   },
   {
     "id": "primarina",
     "name": "Primarina",
+    "dexNumber": 730,
     "introducedGroupId": "sm",
     "prevolutionId": "brionne"
   },
   {
     "id": "pikipek",
     "name": "Pikipek",
+    "dexNumber": 731,
     "introducedGroupId": "sm"
   },
   {
     "id": "trumbeak",
     "name": "Trumbeak",
+    "dexNumber": 732,
     "introducedGroupId": "sm",
     "prevolutionId": "pikipek"
   },
   {
     "id": "toucannon",
     "name": "Toucannon",
+    "dexNumber": 733,
     "introducedGroupId": "sm",
     "prevolutionId": "trumbeak"
   },
   {
     "id": "yungoos",
     "name": "Yungoos",
+    "dexNumber": 734,
     "introducedGroupId": "sm"
   },
   {
     "id": "gumshoos",
     "name": "Gumshoos",
+    "dexNumber": 735,
     "introducedGroupId": "sm",
     "prevolutionId": "yungoos"
   },
   {
     "id": "grubbin",
     "name": "Grubbin",
+    "dexNumber": 736,
     "introducedGroupId": "sm"
   },
   {
     "id": "charjabug",
     "name": "Charjabug",
+    "dexNumber": 737,
     "introducedGroupId": "sm",
     "prevolutionId": "grubbin"
   },
   {
     "id": "vikavolt",
     "name": "Vikavolt",
+    "dexNumber": 738,
     "introducedGroupId": "sm",
     "prevolutionId": "charjabug"
   },
   {
     "id": "crabrawler",
     "name": "Crabrawler",
+    "dexNumber": 739,
     "introducedGroupId": "sm"
   },
   {
     "id": "crabominable",
     "name": "Crabominable",
+    "dexNumber": 740,
     "introducedGroupId": "sm",
     "prevolutionId": "crabrawler"
   },
   {
     "id": "oricorio",
     "name": "Oricorio",
+    "dexNumber": 741,
     "introducedGroupId": "sm"
   },
   {
     "id": "cutiefly",
     "name": "Cutiefly",
+    "dexNumber": 742,
     "introducedGroupId": "sm"
   },
   {
     "id": "ribombee",
     "name": "Ribombee",
+    "dexNumber": 743,
     "introducedGroupId": "sm",
     "prevolutionId": "cutiefly"
   },
   {
     "id": "rockruff",
     "name": "Rockruff",
+    "dexNumber": 744,
     "introducedGroupId": "sm"
   },
   {
     "id": "lycanroc",
     "name": "Lycanroc",
+    "dexNumber": 745,
     "introducedGroupId": "sm",
     "prevolutionId": "rockruff"
   },
   {
     "id": "wishiwashi",
     "name": "Wishiwashi",
+    "dexNumber": 746,
     "introducedGroupId": "sm"
   },
   {
     "id": "mareanie",
     "name": "Mareanie",
+    "dexNumber": 747,
     "introducedGroupId": "sm"
   },
   {
     "id": "toxapex",
     "name": "Toxapex",
+    "dexNumber": 748,
     "introducedGroupId": "sm",
     "prevolutionId": "mareanie"
   },
   {
     "id": "mudbray",
     "name": "Mudbray",
+    "dexNumber": 749,
     "introducedGroupId": "sm"
   },
   {
     "id": "mudsdale",
     "name": "Mudsdale",
+    "dexNumber": 750,
     "introducedGroupId": "sm",
     "prevolutionId": "mudbray"
   },
   {
     "id": "dewpider",
     "name": "Dewpider",
+    "dexNumber": 751,
     "introducedGroupId": "sm"
   },
   {
     "id": "araquanid",
     "name": "Araquanid",
+    "dexNumber": 752,
     "introducedGroupId": "sm",
     "prevolutionId": "dewpider"
   },
   {
     "id": "fomantis",
     "name": "Fomantis",
+    "dexNumber": 753,
     "introducedGroupId": "sm"
   },
   {
     "id": "lurantis",
     "name": "Lurantis",
+    "dexNumber": 754,
     "introducedGroupId": "sm",
     "prevolutionId": "fomantis"
   },
   {
     "id": "morelull",
     "name": "Morelull",
+    "dexNumber": 755,
     "introducedGroupId": "sm"
   },
   {
     "id": "shiinotic",
     "name": "Shiinotic",
+    "dexNumber": 756,
     "introducedGroupId": "sm",
     "prevolutionId": "morelull"
   },
   {
     "id": "salandit",
     "name": "Salandit",
+    "dexNumber": 757,
     "introducedGroupId": "sm"
   },
   {
     "id": "salazzle",
     "name": "Salazzle",
+    "dexNumber": 758,
     "introducedGroupId": "sm",
     "prevolutionId": "salandit"
   },
   {
     "id": "stufful",
     "name": "Stufful",
+    "dexNumber": 759,
     "introducedGroupId": "sm"
   },
   {
     "id": "bewear",
     "name": "Bewear",
+    "dexNumber": 760,
     "introducedGroupId": "sm",
     "prevolutionId": "stufful"
   },
   {
     "id": "bounsweet",
     "name": "Bounsweet",
+    "dexNumber": 761,
     "introducedGroupId": "sm"
   },
   {
     "id": "steenee",
     "name": "Steenee",
+    "dexNumber": 762,
     "introducedGroupId": "sm",
     "prevolutionId": "bounsweet"
   },
   {
     "id": "tsareena",
     "name": "Tsareena",
+    "dexNumber": 763,
     "introducedGroupId": "sm",
     "prevolutionId": "steenee"
   },
   {
     "id": "comfey",
     "name": "Comfey",
+    "dexNumber": 764,
     "introducedGroupId": "sm"
   },
   {
     "id": "oranguru",
     "name": "Oranguru",
+    "dexNumber": 765,
     "introducedGroupId": "sm"
   },
   {
     "id": "passimian",
     "name": "Passimian",
+    "dexNumber": 766,
     "introducedGroupId": "sm"
   },
   {
     "id": "wimpod",
     "name": "Wimpod",
+    "dexNumber": 767,
     "introducedGroupId": "sm"
   },
   {
     "id": "golisopod",
     "name": "Golisopod",
+    "dexNumber": 768,
     "introducedGroupId": "sm",
     "prevolutionId": "wimpod"
   },
   {
     "id": "sandygast",
     "name": "Sandygast",
+    "dexNumber": 769,
     "introducedGroupId": "sm"
   },
   {
     "id": "palossand",
     "name": "Palossand",
+    "dexNumber": 770,
     "introducedGroupId": "sm",
     "prevolutionId": "sandygast"
   },
   {
     "id": "pyukumuku",
     "name": "Pyukumuku",
+    "dexNumber": 771,
     "introducedGroupId": "sm"
   },
   {
     "id": "type-null",
     "name": "Type: Null",
+    "dexNumber": 772,
     "introducedGroupId": "sm"
   },
   {
     "id": "silvally",
     "name": "Silvally",
+    "dexNumber": 773,
     "introducedGroupId": "sm",
     "prevolutionId": "type-null"
   },
   {
     "id": "minior",
     "name": "Minior",
+    "dexNumber": 774,
     "introducedGroupId": "sm"
   },
   {
     "id": "komala",
     "name": "Komala",
+    "dexNumber": 775,
     "introducedGroupId": "sm"
   },
   {
     "id": "turtonator",
     "name": "Turtonator",
+    "dexNumber": 776,
     "introducedGroupId": "sm"
   },
   {
     "id": "togedemaru",
     "name": "Togedemaru",
+    "dexNumber": 777,
     "introducedGroupId": "sm"
   },
   {
     "id": "mimikyu",
     "name": "Mimikyu",
+    "dexNumber": 778,
     "introducedGroupId": "sm"
   },
   {
     "id": "bruxish",
     "name": "Bruxish",
+    "dexNumber": 779,
     "introducedGroupId": "sm"
   },
   {
     "id": "drampa",
     "name": "Drampa",
+    "dexNumber": 780,
     "introducedGroupId": "sm"
   },
   {
     "id": "dhelmise",
     "name": "Dhelmise",
+    "dexNumber": 781,
     "introducedGroupId": "sm"
   },
   {
     "id": "jangmo-o",
     "name": "Jangmo-o",
+    "dexNumber": 782,
     "introducedGroupId": "sm"
   },
   {
     "id": "hakamo-o",
     "name": "Hakamo-o",
+    "dexNumber": 783,
     "introducedGroupId": "sm",
     "prevolutionId": "jangmo-o"
   },
   {
     "id": "kommo-o",
     "name": "Kommo-o",
+    "dexNumber": 784,
     "introducedGroupId": "sm",
     "prevolutionId": "hakamo-o"
   },
   {
     "id": "tapu-koko",
     "name": "Tapu Koko",
+    "dexNumber": 785,
     "introducedGroupId": "sm"
   },
   {
     "id": "tapu-lele",
     "name": "Tapu Lele",
+    "dexNumber": 786,
     "introducedGroupId": "sm"
   },
   {
     "id": "tapu-bulu",
     "name": "Tapu Bulu",
+    "dexNumber": 787,
     "introducedGroupId": "sm"
   },
   {
     "id": "tapu-fini",
     "name": "Tapu Fini",
+    "dexNumber": 788,
     "introducedGroupId": "sm"
   },
   {
     "id": "cosmog",
     "name": "Cosmog",
+    "dexNumber": 789,
     "introducedGroupId": "sm"
   },
   {
     "id": "cosmoem",
     "name": "Cosmoem",
+    "dexNumber": 790,
     "introducedGroupId": "sm",
     "prevolutionId": "cosmog"
   },
   {
     "id": "solgaleo",
     "name": "Solgaleo",
+    "dexNumber": 791,
     "introducedGroupId": "sm",
     "prevolutionId": "cosmoem"
   },
   {
     "id": "lunala",
     "name": "Lunala",
+    "dexNumber": 792,
     "introducedGroupId": "sm",
     "prevolutionId": "cosmoem"
   },
   {
     "id": "nihilego",
     "name": "Nihilego",
+    "dexNumber": 793,
     "introducedGroupId": "sm"
   },
   {
     "id": "buzzwole",
     "name": "Buzzwole",
+    "dexNumber": 794,
     "introducedGroupId": "sm"
   },
   {
     "id": "pheromosa",
     "name": "Pheromosa",
+    "dexNumber": 795,
     "introducedGroupId": "sm"
   },
   {
     "id": "xurkitree",
     "name": "Xurkitree",
+    "dexNumber": 796,
     "introducedGroupId": "sm"
   },
   {
     "id": "celesteela",
     "name": "Celesteela",
+    "dexNumber": 797,
     "introducedGroupId": "sm"
   },
   {
     "id": "kartana",
     "name": "Kartana",
+    "dexNumber": 798,
     "introducedGroupId": "sm"
   },
   {
     "id": "guzzlord",
     "name": "Guzzlord",
+    "dexNumber": 799,
     "introducedGroupId": "sm"
   },
   {
     "id": "necrozma",
     "name": "Necrozma",
+    "dexNumber": 800,
     "introducedGroupId": "sm"
   },
   {
     "id": "magearna",
     "name": "Magearna",
+    "dexNumber": 801,
     "introducedGroupId": "sm"
   },
   {
     "id": "marshadow",
     "name": "Marshadow",
+    "dexNumber": 802,
     "introducedGroupId": "sm"
   },
   {
     "id": "poipole",
     "name": "Poipole",
+    "dexNumber": 803,
     "introducedGroupId": "sm"
   },
   {
     "id": "naganadel",
     "name": "Naganadel",
+    "dexNumber": 804,
     "introducedGroupId": "sm",
     "prevolutionId": "poipole"
   },
   {
     "id": "stakataka",
     "name": "Stakataka",
+    "dexNumber": 805,
     "introducedGroupId": "sm"
   },
   {
     "id": "blacephalon",
     "name": "Blacephalon",
+    "dexNumber": 806,
     "introducedGroupId": "sm"
   },
   {
     "id": "zeraora",
     "name": "Zeraora",
+    "dexNumber": 807,
     "introducedGroupId": "sm"
   },
   {
     "id": "meltan",
     "name": "Meltan",
+    "dexNumber": 808,
     "introducedGroupId": "sm"
   },
   {
     "id": "melmetal",
     "name": "Melmetal",
+    "dexNumber": 809,
     "introducedGroupId": "sm"
   },
   {
     "id": "grookey",
     "name": "Grookey",
+    "dexNumber": 810,
     "introducedGroupId": "swsh"
   },
   {
     "id": "thwackey",
     "name": "Thwackey",
+    "dexNumber": 811,
     "introducedGroupId": "swsh",
     "prevolutionId": "grookey"
   },
   {
     "id": "rillaboom",
     "name": "Rillaboom",
+    "dexNumber": 812,
     "introducedGroupId": "swsh",
     "prevolutionId": "thwackey"
   },
   {
     "id": "scorbunny",
     "name": "Scorbunny",
+    "dexNumber": 813,
     "introducedGroupId": "swsh"
   },
   {
     "id": "raboot",
     "name": "Raboot",
+    "dexNumber": 814,
     "introducedGroupId": "swsh",
     "prevolutionId": "scorbunny"
   },
   {
     "id": "cinderace",
     "name": "Cinderace",
+    "dexNumber": 815,
     "introducedGroupId": "swsh",
     "prevolutionId": "raboot"
   },
   {
     "id": "sobble",
     "name": "Sobble",
+    "dexNumber": 816,
     "introducedGroupId": "swsh"
   },
   {
     "id": "drizzile",
     "name": "Drizzile",
+    "dexNumber": 817,
     "introducedGroupId": "swsh",
     "prevolutionId": "sobble"
   },
   {
     "id": "inteleon",
     "name": "Inteleon",
+    "dexNumber": 818,
     "introducedGroupId": "swsh",
     "prevolutionId": "drizzile"
   },
   {
     "id": "skwovet",
     "name": "Skwovet",
+    "dexNumber": 819,
     "introducedGroupId": "swsh"
   },
   {
     "id": "greedent",
     "name": "Greedent",
+    "dexNumber": 820,
     "introducedGroupId": "swsh",
     "prevolutionId": "skwovet"
   },
   {
     "id": "rookidee",
     "name": "Rookidee",
+    "dexNumber": 821,
     "introducedGroupId": "swsh"
   },
   {
     "id": "corvisquire",
     "name": "Corvisquire",
+    "dexNumber": 822,
     "introducedGroupId": "swsh",
     "prevolutionId": "rookidee"
   },
   {
     "id": "corviknight",
     "name": "Corviknight",
+    "dexNumber": 823,
     "introducedGroupId": "swsh",
     "prevolutionId": "corvisquire"
   },
   {
     "id": "blipbug",
     "name": "Blipbug",
+    "dexNumber": 824,
     "introducedGroupId": "swsh"
   },
   {
     "id": "dottler",
     "name": "Dottler",
+    "dexNumber": 825,
     "introducedGroupId": "swsh",
     "prevolutionId": "blipbug"
   },
   {
     "id": "orbeetle",
     "name": "Orbeetle",
+    "dexNumber": 826,
     "introducedGroupId": "swsh",
     "prevolutionId": "dottler"
   },
   {
     "id": "nickit",
     "name": "Nickit",
+    "dexNumber": 827,
     "introducedGroupId": "swsh"
   },
   {
     "id": "thievul",
     "name": "Thievul",
+    "dexNumber": 828,
     "introducedGroupId": "swsh",
     "prevolutionId": "nickit"
   },
   {
     "id": "gossifleur",
     "name": "Gossifleur",
+    "dexNumber": 829,
     "introducedGroupId": "swsh"
   },
   {
     "id": "eldegoss",
     "name": "Eldegoss",
+    "dexNumber": 830,
     "introducedGroupId": "swsh",
     "prevolutionId": "gossifleur"
   },
   {
     "id": "wooloo",
     "name": "Wooloo",
+    "dexNumber": 831,
     "introducedGroupId": "swsh"
   },
   {
     "id": "dubwool",
     "name": "Dubwool",
+    "dexNumber": 832,
     "introducedGroupId": "swsh",
     "prevolutionId": "wooloo"
   },
   {
     "id": "chewtle",
     "name": "Chewtle",
+    "dexNumber": 833,
     "introducedGroupId": "swsh"
   },
   {
     "id": "drednaw",
     "name": "Drednaw",
+    "dexNumber": 834,
     "introducedGroupId": "swsh",
     "prevolutionId": "chewtle"
   },
   {
     "id": "yamper",
     "name": "Yamper",
+    "dexNumber": 835,
     "introducedGroupId": "swsh"
   },
   {
     "id": "boltund",
     "name": "Boltund",
+    "dexNumber": 836,
     "introducedGroupId": "swsh",
     "prevolutionId": "yamper"
   },
   {
     "id": "rolycoly",
     "name": "Rolycoly",
+    "dexNumber": 837,
     "introducedGroupId": "swsh"
   },
   {
     "id": "carkol",
     "name": "Carkol",
+    "dexNumber": 838,
     "introducedGroupId": "swsh",
     "prevolutionId": "rolycoly"
   },
   {
     "id": "coalossal",
     "name": "Coalossal",
+    "dexNumber": 839,
     "introducedGroupId": "swsh",
     "prevolutionId": "carkol"
   },
   {
     "id": "applin",
     "name": "Applin",
+    "dexNumber": 840,
     "introducedGroupId": "swsh"
   },
   {
     "id": "flapple",
     "name": "Flapple",
+    "dexNumber": 841,
     "introducedGroupId": "swsh",
     "prevolutionId": "applin"
   },
   {
     "id": "appletun",
     "name": "Appletun",
+    "dexNumber": 842,
     "introducedGroupId": "swsh",
     "prevolutionId": "applin"
   },
   {
     "id": "silicobra",
     "name": "Silicobra",
+    "dexNumber": 843,
     "introducedGroupId": "swsh"
   },
   {
     "id": "sandaconda",
     "name": "Sandaconda",
+    "dexNumber": 844,
     "introducedGroupId": "swsh",
     "prevolutionId": "silicobra"
   },
   {
     "id": "cramorant",
     "name": "Cramorant",
+    "dexNumber": 845,
     "introducedGroupId": "swsh"
   },
   {
     "id": "arrokuda",
     "name": "Arrokuda",
+    "dexNumber": 846,
     "introducedGroupId": "swsh"
   },
   {
     "id": "barraskewda",
     "name": "Barraskewda",
+    "dexNumber": 847,
     "introducedGroupId": "swsh",
     "prevolutionId": "arrokuda"
   },
   {
     "id": "toxel",
     "name": "Toxel",
+    "dexNumber": 848,
     "introducedGroupId": "swsh"
   },
   {
     "id": "toxtricity",
     "name": "Toxtricity",
+    "dexNumber": 849,
     "introducedGroupId": "swsh",
     "prevolutionId": "toxel"
   },
   {
     "id": "sizzlipede",
     "name": "Sizzlipede",
+    "dexNumber": 850,
     "introducedGroupId": "swsh"
   },
   {
     "id": "centiskorch",
     "name": "Centiskorch",
+    "dexNumber": 851,
     "introducedGroupId": "swsh",
     "prevolutionId": "sizzlipede"
   },
   {
     "id": "clobbopus",
     "name": "Clobbopus",
+    "dexNumber": 852,
     "introducedGroupId": "swsh"
   },
   {
     "id": "grapploct",
     "name": "Grapploct",
+    "dexNumber": 853,
     "introducedGroupId": "swsh",
     "prevolutionId": "clobbopus"
   },
   {
     "id": "sinistea",
     "name": "Sinistea",
+    "dexNumber": 854,
     "introducedGroupId": "swsh"
   },
   {
     "id": "polteageist",
     "name": "Polteageist",
+    "dexNumber": 855,
     "introducedGroupId": "swsh",
     "prevolutionId": "sinistea"
   },
   {
     "id": "hatenna",
     "name": "Hatenna",
+    "dexNumber": 856,
     "introducedGroupId": "swsh"
   },
   {
     "id": "hattrem",
     "name": "Hattrem",
+    "dexNumber": 857,
     "introducedGroupId": "swsh",
     "prevolutionId": "hatenna"
   },
   {
     "id": "hatterene",
     "name": "Hatterene",
+    "dexNumber": 858,
     "introducedGroupId": "swsh",
     "prevolutionId": "hattrem"
   },
   {
     "id": "impidimp",
     "name": "Impidimp",
+    "dexNumber": 859,
     "introducedGroupId": "swsh"
   },
   {
     "id": "morgrem",
     "name": "Morgrem",
+    "dexNumber": 860,
     "introducedGroupId": "swsh",
     "prevolutionId": "impidimp"
   },
   {
     "id": "grimmsnarl",
     "name": "Grimmsnarl",
+    "dexNumber": 861,
     "introducedGroupId": "swsh",
     "prevolutionId": "morgrem"
   },
   {
     "id": "obstagoon",
     "name": "Obstagoon",
+    "dexNumber": 862,
     "introducedGroupId": "swsh",
     "prevolutionId": "linoone-galar"
   },
   {
     "id": "perrserker",
     "name": "Perrserker",
+    "dexNumber": 863,
     "introducedGroupId": "swsh",
     "prevolutionId": "meowth-galar"
   },
   {
     "id": "cursola",
     "name": "Cursola",
+    "dexNumber": 864,
     "introducedGroupId": "swsh",
     "prevolutionId": "corsola-galar"
   },
   {
     "id": "sirfetch-d",
     "name": "Sirfetch’d",
+    "dexNumber": 865,
     "introducedGroupId": "swsh",
     "prevolutionId": "farfetch-d-galar"
   },
   {
     "id": "mr-rime",
     "name": "Mr. Rime",
+    "dexNumber": 866,
     "introducedGroupId": "swsh",
     "prevolutionId": "mr-mime-galar"
   },
   {
     "id": "runerigus",
     "name": "Runerigus",
+    "dexNumber": 867,
     "introducedGroupId": "swsh",
     "prevolutionId": "yamask-galar"
   },
   {
     "id": "milcery",
     "name": "Milcery",
+    "dexNumber": 868,
     "introducedGroupId": "swsh"
   },
   {
     "id": "alcremie",
     "name": "Alcremie",
+    "dexNumber": 869,
     "introducedGroupId": "swsh",
     "prevolutionId": "milcery"
   },
   {
     "id": "falinks",
     "name": "Falinks",
+    "dexNumber": 870,
     "introducedGroupId": "swsh"
   },
   {
     "id": "pincurchin",
     "name": "Pincurchin",
+    "dexNumber": 871,
     "introducedGroupId": "swsh"
   },
   {
     "id": "snom",
     "name": "Snom",
+    "dexNumber": 872,
     "introducedGroupId": "swsh"
   },
   {
     "id": "frosmoth",
     "name": "Frosmoth",
+    "dexNumber": 873,
     "introducedGroupId": "swsh",
     "prevolutionId": "snom"
   },
   {
     "id": "stonjourner",
     "name": "Stonjourner",
+    "dexNumber": 874,
     "introducedGroupId": "swsh"
   },
   {
     "id": "eiscue",
     "name": "Eiscue",
+    "dexNumber": 875,
     "introducedGroupId": "swsh"
   },
   {
     "id": "indeedee",
     "name": "Indeedee",
+    "dexNumber": 876,
     "introducedGroupId": "swsh"
   },
   {
     "id": "morpeko",
     "name": "Morpeko",
+    "dexNumber": 877,
     "introducedGroupId": "swsh"
   },
   {
     "id": "cufant",
     "name": "Cufant",
+    "dexNumber": 878,
     "introducedGroupId": "swsh"
   },
   {
     "id": "copperajah",
     "name": "Copperajah",
+    "dexNumber": 879,
     "introducedGroupId": "swsh",
     "prevolutionId": "cufant"
   },
   {
     "id": "dracozolt",
     "name": "Dracozolt",
+    "dexNumber": 880,
     "introducedGroupId": "swsh"
   },
   {
     "id": "arctozolt",
     "name": "Arctozolt",
+    "dexNumber": 881,
     "introducedGroupId": "swsh"
   },
   {
     "id": "dracovish",
     "name": "Dracovish",
+    "dexNumber": 882,
     "introducedGroupId": "swsh"
   },
   {
     "id": "arctovish",
     "name": "Arctovish",
+    "dexNumber": 883,
     "introducedGroupId": "swsh"
   },
   {
     "id": "duraludon",
     "name": "Duraludon",
+    "dexNumber": 884,
     "introducedGroupId": "swsh"
   },
   {
     "id": "dreepy",
     "name": "Dreepy",
+    "dexNumber": 885,
     "introducedGroupId": "swsh"
   },
   {
     "id": "drakloak",
     "name": "Drakloak",
+    "dexNumber": 886,
     "introducedGroupId": "swsh",
     "prevolutionId": "dreepy"
   },
   {
     "id": "dragapult",
     "name": "Dragapult",
+    "dexNumber": 887,
     "introducedGroupId": "swsh",
     "prevolutionId": "drakloak"
   },
   {
     "id": "zacian",
     "name": "Zacian",
+    "dexNumber": 888,
     "introducedGroupId": "swsh"
   },
   {
     "id": "zamazenta",
     "name": "Zamazenta",
+    "dexNumber": 889,
     "introducedGroupId": "swsh"
   },
   {
     "id": "eternatus",
     "name": "Eternatus",
+    "dexNumber": 890,
     "introducedGroupId": "swsh"
   },
   {
     "id": "kubfu",
     "name": "Kubfu",
+    "dexNumber": 891,
     "introducedGroupId": "swsh"
   },
   {
     "id": "urshifu",
     "name": "Urshifu",
+    "dexNumber": 892,
     "introducedGroupId": "swsh",
     "prevolutionId": "kubfu"
   },
   {
     "id": "zarude",
     "name": "Zarude",
+    "dexNumber": 893,
     "introducedGroupId": "swsh"
   },
   {
     "id": "regieleki",
     "name": "Regieleki",
+    "dexNumber": 894,
     "introducedGroupId": "swsh"
   },
   {
     "id": "regidrago",
     "name": "Regidrago",
+    "dexNumber": 895,
     "introducedGroupId": "swsh"
   },
   {
     "id": "glastrier",
     "name": "Glastrier",
+    "dexNumber": 896,
     "introducedGroupId": "swsh"
   },
   {
     "id": "spectrier",
     "name": "Spectrier",
+    "dexNumber": 897,
     "introducedGroupId": "swsh"
   },
   {
     "id": "calyrex",
     "name": "Calyrex",
+    "dexNumber": 898,
     "introducedGroupId": "swsh"
   },
   {
     "id": "wyrdeer",
     "name": "Wyrdeer",
+    "dexNumber": 899,
     "introducedGroupId": "swsh",
     "prevolutionId": "stantler"
   },
   {
     "id": "kleavor",
     "name": "Kleavor",
+    "dexNumber": 900,
     "introducedGroupId": "swsh",
     "prevolutionId": "scyther"
   },
   {
     "id": "ursaluna",
     "name": "Ursaluna",
+    "dexNumber": 901,
     "introducedGroupId": "swsh",
     "prevolutionId": "ursaring"
   },
   {
     "id": "basculegion",
     "name": "Basculegion",
+    "dexNumber": 902,
     "introducedGroupId": "swsh",
     "prevolutionId": "basculin-white-striped"
   },
   {
     "id": "sneasler",
     "name": "Sneasler",
+    "dexNumber": 903,
     "introducedGroupId": "swsh",
     "prevolutionId": "sneasel-hisui"
   },
   {
     "id": "overqwil",
     "name": "Overqwil",
+    "dexNumber": 904,
     "introducedGroupId": "swsh",
     "prevolutionId": "qwilfish-hisui"
   },
   {
     "id": "enamorus",
     "name": "Enamorus",
+    "dexNumber": 905,
     "introducedGroupId": "swsh"
   },
   {
     "id": "sprigatito",
     "name": "Sprigatito",
+    "dexNumber": 906,
     "introducedGroupId": "sv"
   },
   {
     "id": "floragato",
     "name": "Floragato",
+    "dexNumber": 907,
     "introducedGroupId": "sv",
     "prevolutionId": "sprigatito"
   },
   {
     "id": "meowscarada",
     "name": "Meowscarada",
+    "dexNumber": 908,
     "introducedGroupId": "sv",
     "prevolutionId": "floragato"
   },
   {
     "id": "fuecoco",
     "name": "Fuecoco",
+    "dexNumber": 909,
     "introducedGroupId": "sv"
   },
   {
     "id": "crocalor",
     "name": "Crocalor",
+    "dexNumber": 910,
     "introducedGroupId": "sv",
     "prevolutionId": "fuecoco"
   },
   {
     "id": "skeledirge",
     "name": "Skeledirge",
+    "dexNumber": 911,
     "introducedGroupId": "sv",
     "prevolutionId": "crocalor"
   },
   {
     "id": "quaxly",
     "name": "Quaxly",
+    "dexNumber": 912,
     "introducedGroupId": "sv"
   },
   {
     "id": "quaxwell",
     "name": "Quaxwell",
+    "dexNumber": 913,
     "introducedGroupId": "sv",
     "prevolutionId": "quaxly"
   },
   {
     "id": "quaquaval",
     "name": "Quaquaval",
+    "dexNumber": 914,
     "introducedGroupId": "sv",
     "prevolutionId": "quaxwell"
   },
   {
     "id": "lechonk",
     "name": "Lechonk",
+    "dexNumber": 915,
     "introducedGroupId": "sv"
   },
   {
     "id": "oinkologne",
     "name": "Oinkologne",
+    "dexNumber": 916,
     "introducedGroupId": "sv",
     "prevolutionId": "lechonk"
   },
   {
     "id": "tarountula",
     "name": "Tarountula",
+    "dexNumber": 917,
     "introducedGroupId": "sv"
   },
   {
     "id": "spidops",
     "name": "Spidops",
+    "dexNumber": 918,
     "introducedGroupId": "sv",
     "prevolutionId": "tarountula"
   },
   {
     "id": "nymble",
     "name": "Nymble",
+    "dexNumber": 919,
     "introducedGroupId": "sv"
   },
   {
     "id": "lokix",
     "name": "Lokix",
+    "dexNumber": 920,
     "introducedGroupId": "sv",
     "prevolutionId": "nymble"
   },
   {
     "id": "pawmi",
     "name": "Pawmi",
+    "dexNumber": 921,
     "introducedGroupId": "sv"
   },
   {
     "id": "pawmo",
     "name": "Pawmo",
+    "dexNumber": 922,
     "introducedGroupId": "sv",
     "prevolutionId": "pawmi"
   },
   {
     "id": "pawmot",
     "name": "Pawmot",
+    "dexNumber": 923,
     "introducedGroupId": "sv",
     "prevolutionId": "pawmo"
   },
   {
     "id": "tandemaus",
     "name": "Tandemaus",
+    "dexNumber": 924,
     "introducedGroupId": "sv"
   },
   {
     "id": "maushold",
     "name": "Maushold",
+    "dexNumber": 925,
     "introducedGroupId": "sv",
     "prevolutionId": "tandemaus"
   },
   {
     "id": "fidough",
     "name": "Fidough",
+    "dexNumber": 926,
     "introducedGroupId": "sv"
   },
   {
     "id": "dachsbun",
     "name": "Dachsbun",
+    "dexNumber": 927,
     "introducedGroupId": "sv",
     "prevolutionId": "fidough"
   },
   {
     "id": "smoliv",
     "name": "Smoliv",
+    "dexNumber": 928,
     "introducedGroupId": "sv"
   },
   {
     "id": "dolliv",
     "name": "Dolliv",
+    "dexNumber": 929,
     "introducedGroupId": "sv",
     "prevolutionId": "smoliv"
   },
   {
     "id": "arboliva",
     "name": "Arboliva",
+    "dexNumber": 930,
     "introducedGroupId": "sv",
     "prevolutionId": "dolliv"
   },
   {
     "id": "squawkabilly",
     "name": "Squawkabilly",
+    "dexNumber": 931,
     "introducedGroupId": "sv"
   },
   {
     "id": "nacli",
     "name": "Nacli",
+    "dexNumber": 932,
     "introducedGroupId": "sv"
   },
   {
     "id": "naclstack",
     "name": "Naclstack",
+    "dexNumber": 933,
     "introducedGroupId": "sv",
     "prevolutionId": "nacli"
   },
   {
     "id": "garganacl",
     "name": "Garganacl",
+    "dexNumber": 934,
     "introducedGroupId": "sv",
     "prevolutionId": "naclstack"
   },
   {
     "id": "charcadet",
     "name": "Charcadet",
+    "dexNumber": 935,
     "introducedGroupId": "sv"
   },
   {
     "id": "armarouge",
     "name": "Armarouge",
+    "dexNumber": 936,
     "introducedGroupId": "sv",
     "prevolutionId": "charcadet"
   },
   {
     "id": "ceruledge",
     "name": "Ceruledge",
+    "dexNumber": 937,
     "introducedGroupId": "sv",
     "prevolutionId": "charcadet"
   },
   {
     "id": "tadbulb",
     "name": "Tadbulb",
+    "dexNumber": 938,
     "introducedGroupId": "sv"
   },
   {
     "id": "bellibolt",
     "name": "Bellibolt",
+    "dexNumber": 939,
     "introducedGroupId": "sv",
     "prevolutionId": "tadbulb"
   },
   {
     "id": "wattrel",
     "name": "Wattrel",
+    "dexNumber": 940,
     "introducedGroupId": "sv"
   },
   {
     "id": "kilowattrel",
     "name": "Kilowattrel",
+    "dexNumber": 941,
     "introducedGroupId": "sv",
     "prevolutionId": "wattrel"
   },
   {
     "id": "maschiff",
     "name": "Maschiff",
+    "dexNumber": 942,
     "introducedGroupId": "sv"
   },
   {
     "id": "mabosstiff",
     "name": "Mabosstiff",
+    "dexNumber": 943,
     "introducedGroupId": "sv",
     "prevolutionId": "maschiff"
   },
   {
     "id": "shroodle",
     "name": "Shroodle",
+    "dexNumber": 944,
     "introducedGroupId": "sv"
   },
   {
     "id": "grafaiai",
     "name": "Grafaiai",
+    "dexNumber": 945,
     "introducedGroupId": "sv",
     "prevolutionId": "shroodle"
   },
   {
     "id": "bramblin",
     "name": "Bramblin",
+    "dexNumber": 946,
     "introducedGroupId": "sv"
   },
   {
     "id": "brambleghast",
     "name": "Brambleghast",
+    "dexNumber": 947,
     "introducedGroupId": "sv",
     "prevolutionId": "bramblin"
   },
   {
     "id": "toedscool",
     "name": "Toedscool",
+    "dexNumber": 948,
     "introducedGroupId": "sv"
   },
   {
     "id": "toedscruel",
     "name": "Toedscruel",
+    "dexNumber": 949,
     "introducedGroupId": "sv",
     "prevolutionId": "toedscool"
   },
   {
     "id": "klawf",
     "name": "Klawf",
+    "dexNumber": 950,
     "introducedGroupId": "sv"
   },
   {
     "id": "capsakid",
     "name": "Capsakid",
+    "dexNumber": 951,
     "introducedGroupId": "sv"
   },
   {
     "id": "scovillain",
     "name": "Scovillain",
+    "dexNumber": 952,
     "introducedGroupId": "sv",
     "prevolutionId": "capsakid"
   },
   {
     "id": "rellor",
     "name": "Rellor",
+    "dexNumber": 953,
     "introducedGroupId": "sv"
   },
   {
     "id": "rabsca",
     "name": "Rabsca",
+    "dexNumber": 954,
     "introducedGroupId": "sv",
     "prevolutionId": "rellor"
   },
   {
     "id": "flittle",
     "name": "Flittle",
+    "dexNumber": 955,
     "introducedGroupId": "sv"
   },
   {
     "id": "espathra",
     "name": "Espathra",
+    "dexNumber": 956,
     "introducedGroupId": "sv",
     "prevolutionId": "flittle"
   },
   {
     "id": "tinkatink",
     "name": "Tinkatink",
+    "dexNumber": 957,
     "introducedGroupId": "sv"
   },
   {
     "id": "tinkatuff",
     "name": "Tinkatuff",
+    "dexNumber": 958,
     "introducedGroupId": "sv",
     "prevolutionId": "tinkatink"
   },
   {
     "id": "tinkaton",
     "name": "Tinkaton",
+    "dexNumber": 959,
     "introducedGroupId": "sv",
     "prevolutionId": "tinkatuff"
   },
   {
     "id": "wiglett",
     "name": "Wiglett",
+    "dexNumber": 960,
     "introducedGroupId": "sv"
   },
   {
     "id": "wugtrio",
     "name": "Wugtrio",
+    "dexNumber": 961,
     "introducedGroupId": "sv",
     "prevolutionId": "wiglett"
   },
   {
     "id": "bombirdier",
     "name": "Bombirdier",
+    "dexNumber": 962,
     "introducedGroupId": "sv"
   },
   {
     "id": "finizen",
     "name": "Finizen",
+    "dexNumber": 963,
     "introducedGroupId": "sv"
   },
   {
     "id": "palafin",
     "name": "Palafin",
+    "dexNumber": 964,
     "introducedGroupId": "sv",
     "prevolutionId": "finizen"
   },
   {
     "id": "varoom",
     "name": "Varoom",
+    "dexNumber": 965,
     "introducedGroupId": "sv"
   },
   {
     "id": "revavroom",
     "name": "Revavroom",
+    "dexNumber": 966,
     "introducedGroupId": "sv",
     "prevolutionId": "varoom"
   },
   {
     "id": "cyclizar",
     "name": "Cyclizar",
+    "dexNumber": 967,
     "introducedGroupId": "sv"
   },
   {
     "id": "orthworm",
     "name": "Orthworm",
+    "dexNumber": 968,
     "introducedGroupId": "sv"
   },
   {
     "id": "glimmet",
     "name": "Glimmet",
+    "dexNumber": 969,
     "introducedGroupId": "sv"
   },
   {
     "id": "glimmora",
     "name": "Glimmora",
+    "dexNumber": 970,
     "introducedGroupId": "sv",
     "prevolutionId": "glimmet"
   },
   {
     "id": "greavard",
     "name": "Greavard",
+    "dexNumber": 971,
     "introducedGroupId": "sv"
   },
   {
     "id": "houndstone",
     "name": "Houndstone",
+    "dexNumber": 972,
     "introducedGroupId": "sv",
     "prevolutionId": "greavard"
   },
   {
     "id": "flamigo",
     "name": "Flamigo",
+    "dexNumber": 973,
     "introducedGroupId": "sv"
   },
   {
     "id": "cetoddle",
     "name": "Cetoddle",
+    "dexNumber": 974,
     "introducedGroupId": "sv"
   },
   {
     "id": "cetitan",
     "name": "Cetitan",
+    "dexNumber": 975,
     "introducedGroupId": "sv",
     "prevolutionId": "cetoddle"
   },
   {
     "id": "veluza",
     "name": "Veluza",
+    "dexNumber": 976,
     "introducedGroupId": "sv"
   },
   {
     "id": "dondozo",
     "name": "Dondozo",
+    "dexNumber": 977,
     "introducedGroupId": "sv"
   },
   {
     "id": "tatsugiri",
     "name": "Tatsugiri",
+    "dexNumber": 978,
     "introducedGroupId": "sv"
   },
   {
     "id": "annihilape",
     "name": "Annihilape",
+    "dexNumber": 979,
     "introducedGroupId": "sv",
     "prevolutionId": "primeape"
   },
   {
     "id": "clodsire",
     "name": "Clodsire",
+    "dexNumber": 980,
     "introducedGroupId": "sv",
     "prevolutionId": "wooper-paldea"
   },
   {
     "id": "farigiraf",
     "name": "Farigiraf",
+    "dexNumber": 981,
     "introducedGroupId": "sv",
     "prevolutionId": "girafarig"
   },
   {
     "id": "dudunsparce",
     "name": "Dudunsparce",
+    "dexNumber": 982,
     "introducedGroupId": "sv",
     "prevolutionId": "dunsparce"
   },
   {
     "id": "kingambit",
     "name": "Kingambit",
+    "dexNumber": 983,
     "introducedGroupId": "sv",
     "prevolutionId": "bisharp"
   },
   {
     "id": "great-tusk",
     "name": "Great Tusk",
+    "dexNumber": 984,
     "introducedGroupId": "sv"
   },
   {
     "id": "scream-tail",
     "name": "Scream Tail",
+    "dexNumber": 985,
     "introducedGroupId": "sv"
   },
   {
     "id": "brute-bonnet",
     "name": "Brute Bonnet",
+    "dexNumber": 986,
     "introducedGroupId": "sv"
   },
   {
     "id": "flutter-mane",
     "name": "Flutter Mane",
+    "dexNumber": 987,
     "introducedGroupId": "sv"
   },
   {
     "id": "slither-wing",
     "name": "Slither Wing",
+    "dexNumber": 988,
     "introducedGroupId": "sv"
   },
   {
     "id": "sandy-shocks",
     "name": "Sandy Shocks",
+    "dexNumber": 989,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-treads",
     "name": "Iron Treads",
+    "dexNumber": 990,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-bundle",
     "name": "Iron Bundle",
+    "dexNumber": 991,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-hands",
     "name": "Iron Hands",
+    "dexNumber": 992,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-jugulis",
     "name": "Iron Jugulis",
+    "dexNumber": 993,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-moth",
     "name": "Iron Moth",
+    "dexNumber": 994,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-thorns",
     "name": "Iron Thorns",
+    "dexNumber": 995,
     "introducedGroupId": "sv"
   },
   {
     "id": "frigibax",
     "name": "Frigibax",
+    "dexNumber": 996,
     "introducedGroupId": "sv"
   },
   {
     "id": "arctibax",
     "name": "Arctibax",
+    "dexNumber": 997,
     "introducedGroupId": "sv",
     "prevolutionId": "frigibax"
   },
   {
     "id": "baxcalibur",
     "name": "Baxcalibur",
+    "dexNumber": 998,
     "introducedGroupId": "sv",
     "prevolutionId": "arctibax"
   },
   {
     "id": "gimmighoul",
     "name": "Gimmighoul",
+    "dexNumber": 999,
     "introducedGroupId": "sv"
   },
   {
     "id": "gholdengo",
     "name": "Gholdengo",
+    "dexNumber": 1000,
     "introducedGroupId": "sv",
     "prevolutionId": "gimmighoul"
   },
   {
     "id": "wo-chien",
     "name": "Wo-Chien",
+    "dexNumber": 1001,
     "introducedGroupId": "sv"
   },
   {
     "id": "chien-pao",
     "name": "Chien-Pao",
+    "dexNumber": 1002,
     "introducedGroupId": "sv"
   },
   {
     "id": "ting-lu",
     "name": "Ting-Lu",
+    "dexNumber": 1003,
     "introducedGroupId": "sv"
   },
   {
     "id": "chi-yu",
     "name": "Chi-Yu",
+    "dexNumber": 1004,
     "introducedGroupId": "sv"
   },
   {
     "id": "roaring-moon",
     "name": "Roaring Moon",
+    "dexNumber": 1005,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-valiant",
     "name": "Iron Valiant",
+    "dexNumber": 1006,
     "introducedGroupId": "sv"
   },
   {
     "id": "koraidon",
     "name": "Koraidon",
+    "dexNumber": 1007,
     "introducedGroupId": "sv"
   },
   {
     "id": "miraidon",
     "name": "Miraidon",
+    "dexNumber": 1008,
     "introducedGroupId": "sv"
   },
   {
     "id": "walking-wake",
     "name": "Walking Wake",
+    "dexNumber": 1009,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-leaves",
     "name": "Iron Leaves",
+    "dexNumber": 1010,
     "introducedGroupId": "sv"
   },
   {
     "id": "dipplin",
     "name": "Dipplin",
+    "dexNumber": 1011,
     "introducedGroupId": "sv",
     "prevolutionId": "applin"
   },
   {
     "id": "poltchageist",
     "name": "Poltchageist",
+    "dexNumber": 1012,
     "introducedGroupId": "sv"
   },
   {
     "id": "sinistcha",
     "name": "Sinistcha",
+    "dexNumber": 1013,
     "introducedGroupId": "sv",
     "prevolutionId": "poltchageist"
   },
   {
     "id": "okidogi",
     "name": "Okidogi",
+    "dexNumber": 1014,
     "introducedGroupId": "sv"
   },
   {
     "id": "munkidori",
     "name": "Munkidori",
+    "dexNumber": 1015,
     "introducedGroupId": "sv"
   },
   {
     "id": "fezandipiti",
     "name": "Fezandipiti",
+    "dexNumber": 1016,
     "introducedGroupId": "sv"
   },
   {
     "id": "ogerpon",
     "name": "Ogerpon",
+    "dexNumber": 1017,
     "introducedGroupId": "sv"
   },
   {
     "id": "archaludon",
     "name": "Archaludon",
+    "dexNumber": 1018,
     "introducedGroupId": "sv",
     "prevolutionId": "duraludon"
   },
   {
     "id": "hydrapple",
     "name": "Hydrapple",
+    "dexNumber": 1019,
     "introducedGroupId": "sv",
     "prevolutionId": "dipplin"
   },
   {
     "id": "gouging-fire",
     "name": "Gouging Fire",
+    "dexNumber": 1020,
     "introducedGroupId": "sv"
   },
   {
     "id": "raging-bolt",
     "name": "Raging Bolt",
+    "dexNumber": 1021,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-boulder",
     "name": "Iron Boulder",
+    "dexNumber": 1022,
     "introducedGroupId": "sv"
   },
   {
     "id": "iron-crown",
     "name": "Iron Crown",
+    "dexNumber": 1023,
     "introducedGroupId": "sv"
   },
   {
     "id": "terapagos",
     "name": "Terapagos",
+    "dexNumber": 1024,
     "introducedGroupId": "sv"
   },
   {
     "id": "pecharunt",
     "name": "Pecharunt",
+    "dexNumber": 1025,
     "introducedGroupId": "sv"
-  },
-  {
-    "id": "missingno",
-    "name": "MissingNo.",
-    "introducedGroupId": "rby"
-  },
-  {
-    "id": "pokestar-smeargle",
-    "name": "Pokestar Smeargle",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-ufo",
-    "name": "Pokestar UFO",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-brycen-man",
-    "name": "Pokestar Brycen-Man",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-mt",
-    "name": "Pokestar MT",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-mt2",
-    "name": "Pokestar MT2",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-transport",
-    "name": "Pokestar Transport",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-giant",
-    "name": "Pokestar Giant",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-humanoid",
-    "name": "Pokestar Humanoid",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-monster",
-    "name": "Pokestar Monster",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-f-00",
-    "name": "Pokestar F-00",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-f-002",
-    "name": "Pokestar F-002",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-spirit",
-    "name": "Pokestar Spirit",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-black-door",
-    "name": "Pokestar Black Door",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-white-door",
-    "name": "Pokestar White Door",
-    "introducedGroupId": "bw"
-  },
-  {
-    "id": "pokestar-black-belt",
-    "name": "Pokestar Black Belt",
-    "introducedGroupId": "bw"
   }
 ]

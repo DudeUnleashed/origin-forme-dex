@@ -32,7 +32,10 @@ function shouldExclude(species: any): boolean {
   // only exclude these specific nonstandard types
   if (species.isNonstandard === 'CAP') return true        // fan-made create-a-pokemon
   if (species.isNonstandard === 'LGPE') return true       // lets go only mechanics
+  if (species.isNonstandard === 'Pokestar') return true   // pokestar studios
   if (species.isNonstandard === 'Unobtainable') return true
+
+  if (species.num <= 0) return true // catches missingno and other glitch mon
 
   // exclude battle-only formes
   if (species.name.includes('-Mega')) return true
@@ -141,6 +144,7 @@ for (const pkmn of allPkmn) {
     speciesMap.set(speciesId, {
       id: speciesId,
       name: speciesName,
+      dexNumber: pkmn.num,
       introducedGroupId: genToVersionGroup(pkmn.gen),
       prevolutionId: pkmn.prevo ? slugify(pkmn.prevo) : undefined,
     })

@@ -14,12 +14,12 @@ class PokedexDatabase extends Dexie {
 
   constructor() {
     super('PokedexDatabase')
-    this.version(1).stores({
+    this.version(2).stores({
       specimens: 'localId, variantId, originGameId, isFavourite, *tags',
       userSettings: '&id',
       versionGroups: '&id, releaseOrder',
       gameTitles: 'id, versionGroupId',
-      species: 'id, introducedGroupId',
+      species: 'id, dexNumber, introducedGroupId',
       formes: 'id, speciesId, formeType, isHomeVisible',
       collectibleVariants: 'id, formeId, isShiny, isAlpha',
       gameAvailability: '[variantId+gameTitleId], variantId, gameTitleId, isVersionExclusive'

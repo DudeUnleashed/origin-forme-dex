@@ -19,6 +19,7 @@ export interface GameTitle {
 export interface Species {
   id: string
   name: string
+  dexNumber: number
   introducedGroupId: string
   prevolutionId?: string
 }
