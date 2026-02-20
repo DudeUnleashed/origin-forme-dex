@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "id": "red",
+    "name": "Pokémon Red",
+    "versionGroupId": "rby"
+  },
+  {
+    "id": "blue",
+    "name": "Pokémon Blue",
+    "versionGroupId": "rby"
+  },
+  {
+    "id": "yellow",
+    "name": "Pokémon Yellow",
+    "versionGroupId": "rby"
+  },
+  {
+    "id": "gold",
+    "name": "Pokémon Gold",
+    "versionGroupId": "gsc"
+  },
+  {
+    "id": "silver",
+    "name": "Pokémon Silver",
+    "versionGroupId": "gsc"
+  },
+  {
+    "id": "crystal",
+    "name": "Pokémon Crystal",
+    "versionGroupId": "gsc"
+  },
+  {
+    "id": "ruby",
+    "name": "Pokémon Ruby",
+    "versionGroupId": "rse"
+  },
+  {
+    "id": "sapphire",
+    "name": "Pokémon Sapphire",
+    "versionGroupId": "rse"
+  },
+  {
+    "id": "emerald",
+    "name": "Pokémon Emerald",
+    "versionGroupId": "rse"
+  },
+  {
+    "id": "firered",
+    "name": "Pokémon FireRed",
+    "versionGroupId": "frlg"
+  },
+  {
+    "id": "leafgreen",
+    "name": "Pokémon LeafGreen",
+    "versionGroupId": "frlg"
+  },
+  {
+    "id": "colosseum",
+    "name": "Pokémon Colosseum",
+    "versionGroupId": "colosseum"
+  },
+  {
+    "id": "xd",
+    "name": "Pokémon XD: Gale of Darkness",
+    "versionGroupId": "xd"
+  },
+  {
+    "id": "diamond",
+    "name": "Pokémon Diamond",
+    "versionGroupId": "dpp"
+  },
+  {
+    "id": "pearl",
+    "name": "Pokémon Pearl",
+    "versionGroupId": "dpp"
+  },
+  {
+    "id": "platinum",
+    "name": "Pokémon Platinum",
+    "versionGroupId": "dpp"
+  },
+  {
+    "id": "heartgold",
+    "name": "Pokémon HeartGold",
+    "versionGroupId": "hgss"
+  },
+  {
+    "id": "soulsilver",
+    "name": "Pokémon SoulSilver",
+    "versionGroupId": "hgss"
+  },
+  {
+    "id": "black",
+    "name": "Pokémon Black",
+    "versionGroupId": "bw"
+  },
+  {
+    "id": "white",
+    "name": "Pokémon White",
+    "versionGroupId": "bw"
+  },
+  {
+    "id": "black2",
+    "name": "Pokémon Black 2",
+    "versionGroupId": "bw2"
+  },
+  {
+    "id": "white2",
+    "name": "Pokémon White 2",
+    "versionGroupId": "bw2"
+  },
+  {
+    "id": "x",
+    "name": "Pokémon X",
+    "versionGroupId": "xy"
+  },
+  {
+    "id": "y",
+    "name": "Pokémon Y",
+    "versionGroupId": "xy"
+  },
+  {
+    "id": "omegaruby",
+    "name": "Pokémon Omega Ruby",
+    "versionGroupId": "oras"
+  },
+  {
+    "id": "alphasapphire",
+    "name": "Pokémon Alpha Sapphire",
+    "versionGroupId": "oras"
+  },
+  {
+    "id": "sun",
+    "name": "Pokémon Sun",
+    "versionGroupId": "sm"
+  },
+  {
+    "id": "moon",
+    "name": "Pokémon Moon",
+    "versionGroupId": "sm"
+  },
+  {
+    "id": "ultrasun",
+    "name": "Pokémon Ultra Sun",
+    "versionGroupId": "usum"
+  },
+  {
+    "id": "ultramoon",
+    "name": "Pokémon Ultra Moon",
+    "versionGroupId": "usum"
+  },
+  {
+    "id": "letsgopikachu",
+    "name": "Pokémon Let's Go Pikachu",
+    "versionGroupId": "lgpe"
+  },
+  {
+    "id": "letsgoeevee",
+    "name": "Pokémon Let's Go Eevee",
+    "versionGroupId": "lgpe"
+  },
+  {
+    "id": "sword",
+    "name": "Pokémon Sword",
+    "versionGroupId": "swsh"
+  },
+  {
+    "id": "shield",
+    "name": "Pokémon Shield",
+    "versionGroupId": "swsh"
+  },
+  {
+    "id": "legendsarceus",
+    "name": "Pokémon Legends: Arceus",
+    "versionGroupId": "pla"
+  },
+  {
+    "id": "brilliantdiamond",
+    "name": "Pokémon Brilliant Diamond",
+    "versionGroupId": "bdsp"
+  },
+  {
+    "id": "shiningpearl",
+    "name": "Pokémon Shining Pearl",
+    "versionGroupId": "bdsp"
+  },
+  {
+    "id": "scarlet",
+    "name": "Pokémon Scarlet",
+    "versionGroupId": "sv"
+  },
+  {
+    "id": "violet",
+    "name": "Pokémon Violet",
+    "versionGroupId": "sv"
+  },
+  {
+    "id": "legendsza",
+    "name": "Pokémon Legends: Z-A",
+    "versionGroupId": "lza"
+  }
+]

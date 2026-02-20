@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "rby",
+    "name": "Red, Blue & Yellow",
+    "releaseOrder": 1,
+    "gameType": "main"
+  },
+  {
+    "id": "gsc",
+    "name": "Gold, Silver & Crystal",
+    "releaseOrder": 2,
+    "gameType": "main"
+  },
+  {
+    "id": "rse",
+    "name": "Ruby, Sapphire & Emerald",
+    "releaseOrder": 3,
+    "gameType": "main"
+  },
+  {
+    "id": "frlg",
+    "name": "FireRed & LeafGreen",
+    "releaseOrder": 4,
+    "gameType": "remake"
+  },
+  {
+    "id": "colosseum",
+    "name": "Pokémon Colosseum",
+    "releaseOrder": 5,
+    "gameType": "spinoff"
+  },
+  {
+    "id": "xd",
+    "name": "Pokémon XD: Gale of Darkness",
+    "releaseOrder": 6,
+    "gameType": "spinoff"
+  },
+  {
+    "id": "dpp",
+    "name": "Diamond, Pearl & Platinum",
+    "releaseOrder": 7,
+    "gameType": "main"
+  },
+  {
+    "id": "hgss",
+    "name": "HeartGold & SoulSilver",
+    "releaseOrder": 8,
+    "gameType": "remake"
+  },
+  {
+    "id": "bw",
+    "name": "Black & White",
+    "releaseOrder": 9,
+    "gameType": "main"
+  },
+  {
+    "id": "bw2",
+    "name": "Black 2 & White 2",
+    "releaseOrder": 10,
+    "gameType": "main"
+  },
+  {
+    "id": "xy",
+    "name": "X & Y",
+    "releaseOrder": 11,
+    "gameType": "main"
+  },
+  {
+    "id": "oras",
+    "name": "Omega Ruby & Alpha Sapphire",
+    "releaseOrder": 12,
+    "gameType": "remake"
+  },
+  {
+    "id": "sm",
+    "name": "Sun & Moon",
+    "releaseOrder": 13,
+    "gameType": "main"
+  },
+  {
+    "id": "usum",
+    "name": "Ultra Sun & Ultra Moon",
+    "releaseOrder": 14,
+    "gameType": "main"
+  },
+  {
+    "id": "lgpe",
+    "name": "Let's Go Pikachu & Eevee",
+    "releaseOrder": 15,
+    "gameType": "remake"
+  },
+  {
+    "id": "swsh",
+    "name": "Sword & Shield",
+    "releaseOrder": 16,
+    "gameType": "main"
+  },
+  {
+    "id": "pla",
+    "name": "Legends: Arceus",
+    "releaseOrder": 17,
+    "gameType": "legends"
+  },
+  {
+    "id": "bdsp",
+    "name": "Brilliant Diamond & Shining Pearl",
+    "releaseOrder": 18,
+    "gameType": "remake"
+  },
+  {
+    "id": "sv",
+    "name": "Scarlet & Violet",
+    "releaseOrder": 19,
+    "gameType": "main"
+  },
+  {
+    "id": "lza",
+    "name": "Legends: Z-A",
+    "releaseOrder": 20,
+    "gameType": "legends"
+  }
+]
